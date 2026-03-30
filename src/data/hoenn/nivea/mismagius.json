@@ -3,12 +3,12 @@
   "name": "Mismagius",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "TRAMPA ROCAS",
-  "tricks": []
+  "tricks": [
      {
-      "detail": "Mienshao → Gengar Otra Vez y usa Maquinacion",
+      "detail": "Mienshao → Gengar Otra Vez y Maquinacion, frente a Walrein o Derwgong usa Maquinacion y Pushea",
       "variant": [
          {
-          "detail": "Migmagius → Matalo luego usa Maquinacion frente a Walrein o Dewgong y luego pushea",
+          "detail": "Blissey → Gengar +6 (Blissey no te hara daño no te preocupes",
           "variant": []
          }
       ]
