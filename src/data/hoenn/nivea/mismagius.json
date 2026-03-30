@@ -4,13 +4,14 @@
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "TRAMPA ROCAS",
   "tricks": []
-  {
-    "detail": "Mienshao → Gengar Otra Vez y Maquinacion, luego frente a Walrein o Dewgong usa maquinacion y Pushea",
-    "variant": [
-      {
-        "detail": "Blissey → Gengar +6 (Blissey no te hara nada tranquilo)",
-        "variant": []
-      }
-    ]
-  }
+    {
+      "detail": "Mienshao → Gengar Otra Vez y Maquinacion, luego frente a Walrein o Dewgong usa maquinacion y Pushea",
+      "variant": [
+        {
+          "detail": "Blissey → Gengar +6 (Blissey no te hara nada tranquilo)",
+          "variant": []
+        }
+      ]
+    }
+  ]
 }
