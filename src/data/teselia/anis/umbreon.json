@@ -1,16 +1,80 @@
 {
-    "id": "umbreon",
-    "name": "Umbreon",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Coloca Trampa Rocas",
-    "tricks": [
-      {
-        "detail": "Scrafty +2 // Puño Drenaje + Paliza para eliminar Dragonite // A Bocajarro para eliminar Toxicroak",
-        "variant": [
-          {
-            "detail": "Dragonite → Sigue fortaleciendo / Puño Drenaje + Paliza para eliminar Dragonite / A Bocajarro para eliminar Toxicroak"
-          }
-        ]
-      }
-    ]
-  }
+  "id": "umbreon",
+  "name": "Umbreon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Coloca Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "Toxicroak ➜ Gengar Cambia a Chansey ↓",
+      "variant": [
+        {
+          "detail": "Dragonite ➜ Gengar Va entrar Toxicroak ➜ Gallade +2 +2",
+          "variant": [
+            {
+              "detail": "Gallade ➜ Danza Espada Si cambia a Dragonite ↓"
+            },
+            {
+              "detail": "Chansey Amortiguador ➜ Entra Bisharp ➜ Gallade Usa Espada Santa En Umbreon"
+            },
+            {
+              "detail": "ESCRIBE_AQUÍ_NUEVA_SUB_VARIANTE_DE_BISHARP"
+            }
+          ]
+        },
+        {
+          "detail": "Cambia a Gallade / si esta Dragonite ↓",
+          "variant": [
+            {
+              "detail": "ESCRIBE_AQUÍ_ESTRATEGIA_CONTRA_DRAGONITE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Chansey Contador, Si entra Toxicroak Cambia a Gengar y Cambia a Gallade Mata a Umbreon Despues Cambia a Chansey Amortiguador va entrar Toxicroak Cambia a Gengar +2 (Toxi Pañuelo)",
+      "variant": [
+        {
+          "detail": "Dragonite Se Queda no usar danza espada con gallade ↓",
+          "variant": [
+            {
+              "detail": "Chansey Contador entra Toxicroak, Gengar +6 (Umbreon puede que aguante a Dragonite +5 o un Espada santa de Gallade)"
+            },
+            {
+              "detail": "Lucario ➜ Gengar Otra Vez ➜ Gallade  ↓ (lucario solo tiene 8 pp en a bocajarro) "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Va entrar Umbreon Matalo de Un Espada Santa  ↓",
+      "variant": [
+        {
+          "detail": "Drifblim/Rotom/Chandelure ➜ Chansey Cambia a jirachi Otra Vez ➜  Chandelure +2 +2",
+          "variant": [
+            { "detail": "Chandelure ➜ Chansey Pantalla Luz (si chande se queda usa Amortiguador) ↓ " },
+            { "detail": "Lucario ➜ Gengar cambia a Jirachi Otra Vez ➜ Chandelure +2 +2" }
+          ]
+        },
+        {
+          "detail": "",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "ESCRIBE_AQUÍ_NUEVO_ESCENARIO_4",
+      "variant": [
+        {
+          "detail": "",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "",
+      "variant": []
+    }
+  ]
+}
