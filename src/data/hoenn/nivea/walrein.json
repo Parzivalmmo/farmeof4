@@ -2,25 +2,25 @@
   "id": "walrein",
   "name": "Walrein",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "TRAMPA ROCAS (SI SE QUEDA USA AMORTIGUADOR)",
   "tricks": [
     {
-      "detail": "Nidoqueen → Excadrill con Trampa Rocas +6 Ataque / +2 Velocidad +Defensa X // Skarmory aguanta 2 golpes",
+      "detail": "Mienshao → Gengar encara y maquinacion luego pushea hasta chansey y bostea +6",
       "variant": []
     },
     {
-      "detail": "Blissey → Cambia a Scrafty, usa Puño Drenaje para recuperar PS, luego usa Danza Dragón dos veces. También puedes usar Puño Drenaje + A Bocajarro para derrotar a Skarmory.",
+      "detail": "Beartic → Gengar encara +2",
       "variant": []
     },
     {
-      "detail": "Lanturn → Coloca Trampa Rocas.",
+      "detail": "Metagross → Gengar encara",
       "variant": [
         {
-          "detail": "Rayo → Excadrill + Velocidad / +4 Ataque",
+          "detail": "Estrategia rapida → Gengar +4 y pushear",
           "variant": []
         },
         {
-          "detail": "Surf → Poliwrath +2 Velocidad / +6 Ataque",
+          "detail": "Estrageia segura → Cambia jirachi despues usa rayo luego encara y entra gallade o chandelure 2+2",
           "variant": []
         },
         {
