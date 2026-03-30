@@ -22,37 +22,18 @@
         {
           "detail": "Estrageia segura → Cambia jirachi despues usa rayo luego encara y entra gallade o chandelure 2+2",
           "variant": []
-        },
-        {
+        }
+      ]
+    },
+    {
       "detail": "Gallade → Gengar +4 (No encares)",
       "variant": []
     },
     {
       "detail": "Hariyama → Gengar encara 4+2",
-      "variant": [
-        {
-          "detail": "Si lleva Restos → Poliwrath 2+6, si luego entra Nidoqueen, cambia a Excadrill y luego a Chandelure para bloquear Tierra Viva, Excadrill +6 / +2",
-          "variant": []
-        },
-        {
-          "detail": "Si lleva Gafas Elegidas → Coloca Trampa Rocas, luego entra Poliwrath +2 / +6",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "RAYO HIELO → Cambia a Chandelure",
-      "variant": [
-        {
-          "detail": "Frente a Lanturn, luego usa Truco para bloquear en Escaldar, entra Poliwrath +2 / +6",
-          "variant": []
-        },
-        {
-          "detail": "Frente a NIDOQUEEN, Excadrill con Trampa Rocas +6 Ataque / +2 Velocidad // Skarmory aguanta 2 golpes",
-          "variant": []
-        }
-      ]
-    } 
+      "variant": []
+    }
   ]
 }
+        
 
