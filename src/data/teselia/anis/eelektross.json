@@ -2,14 +2,14 @@
   "id": "eelektross",
   "name": "Eelektross",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Trampa Rocas/Amortiguador ↓ ",
+  "initialMove": "Trampa Rocas/Amortiguador ↓",
   "tricks": [
     {
-      "detail": "Fuerza Bruta ➜  Gengar Otra Vez +4 +2",
+      "detail": "Fuerza Bruta ➜ Gengar Otra Vez +4 +2",
       "variant": []
     },
     {
-      "detail": "Dragonite ➜ Amorguador ➜ Cambia Gengar Otra Vez +4 +2 ➜  (mira abajo cuidado con el cuerpo maldito)" 
+      "detail": "Dragonite ➜ Amortiguador ➜ Cambia Gengar Otra Vez +4 +2 ➜ (mira abajo cuidado con el cuerpo maldito)",
       "variant": [
         {
           "detail": "Si Bisharp está primero en el enfrentamiento, usa Rayo contra Froslass",
