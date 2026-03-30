@@ -21,9 +21,8 @@
          {"detail": "Sale Weavile → Cambia a Chansey y usa contador para matarlo" "variant": [ 
            {"detail": "Lucario → Cambia a gengar, encara y usa maquinacion, mata a lapras" "variant": []} 
              {"detail": "Dragonite → Cambia a jirachi y encara, luego saca a chandelure 2+2"
-    ]},
-           
-     {"detail": "Sale Nidoqueen → Cambia a Gallade y encara 4+2" 
+      
+     {"detail": "Sale Nidoqueen → Cambia a Gallade y encara 4+2" "variant": []}
       {"detail": "Lucario → Cambia a Chandelure y utiliza Truco para encerrar en Triturar / Roca Afilada, luego cambia a Scrafty +2"}
     ]},
     {"detail": "Blissey / Jigglypuff → Cambia a Chandelure y utiliza Truco para encerrar el Tierra Viva de Nidoking, luego cambia a Excadrill +6", "variant": []},
