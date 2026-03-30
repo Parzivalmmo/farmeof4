@@ -2,10 +2,14 @@
   "id": "beartic",
   "name": "Beartic",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "GENGAR ENCARA DESPUES CAMBIA A CHANSEY Y USA TRAMPA ROCAS",
   "tricks": [
     {
-      "detail": "Bloquea a Nidoking, entra Cloyster con +6. // Walrein no puede debilitar a Cloyster",
+      "detail": "Gallade → Gengar +4 (No encares)",
+      "variant": []
+    },
+    {
+      "detail": "Beartic → Gengar encara +2",
       "variant": []
     }
   ]
