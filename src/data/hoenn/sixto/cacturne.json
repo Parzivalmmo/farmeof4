@@ -2,11 +2,16 @@
   "id": "cacturne",
   "name": "Cacturne",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "TRAMPA ROCAS",
   "tricks": [
     {
-      "detail": "contra Magnezone, usa Truco para bloquear Rayo, luego Excadrill pone Trampa Rocas 4+2. Usa Terremoto para matar a Golurk.",
-      "variant": []
+      "detail": "Puño dranaje → Cambia a Gengar usa Otra Vez 6+2",
+      "variant": [
+        {
+          "detail": "Darmanitan → Chandelure 2+2",
+          "variant": []
+        }
+      ]
     }
   ]
 }
