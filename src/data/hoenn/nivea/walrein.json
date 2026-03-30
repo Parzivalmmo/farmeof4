@@ -5,32 +5,32 @@
   "initialMove": "TRAMPA ROCAS (SI SE QUEDA USA AMORTIGUADOR)",
   "tricks": [
     {
-      "detail": "Mienshao → Gengar encara y maquinacion luego pushea hasta chansey y bostea +6",
+      "detail": "Mienshao → Gengar Otra Vez y Maquinacion luego pushea hasta Chansey y Bostea +6",
       "variant": []
     },
     {
-      "detail": "Beartic → Gengar encara +2",
+      "detail": "Beartic → Gengar Otra Vez +2",
       "variant": []
     },
     {
-      "detail": "Metagross → Gengar encara",
+      "detail": "Metagross → Gengar Otra Vez",
       "variant": [
         {
           "detail": "Estrategia rapida → Gengar +4 y pushear",
           "variant": []
         },
         {
-          "detail": "Estrageia segura → Cambia jirachi despues usa rayo luego encara y entra gallade o chandelure 2+2",
+          "detail": "Estrageia segura → Cambia Jirachi despues usa Rayo luego usa Otra Vez y entra Gallade o Chandelure 2+2",
           "variant": []
         }
       ]
     },
     {
-      "detail": "Gallade → Gengar +4 (No encares)",
+      "detail": "Gallade → Gengar +4 (No usar Otra Vez)",
       "variant": []
     },
     {
-      "detail": "Hariyama → Gengar encara 4+2",
+      "detail": "Hariyama → Gengar Otra Vez 4+2",
       "variant": []
     }
   ]
