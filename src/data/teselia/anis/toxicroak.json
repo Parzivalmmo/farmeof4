@@ -2,14 +2,14 @@
     "id": "toxicroak",
     "name": "Toxicroak",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "TRAMPA ROCAS",
+    "initialMove": "Cambia a Gengar",
     "tricks": [
       {
-        "detail": "TERREMOTO → Cloyster usa Rompecoraza +6.",
+        "detail": "Dragonite ➜ Chansey Trampa roca ➜ Toxicroak ➜ Gengar Cambia a Chansey ➜ Gengar entra Toxicorak ➜ Gallade +2 +2 o Dragonite +6",
         "variant": []
       },
       {
-        "detail": "A BOCAJARRO→ Chandelure usa Truco para cambiar objeto, Cloyster usar Rompecoraza +6.",
+        "detail": "",
         "variant": []
       }
     ]
