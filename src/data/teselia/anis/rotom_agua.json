@@ -2,66 +2,47 @@
     "id": "rotom_agua",
     "name": "Rotom Agua",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "TRUCO",
+    "initialMove": "Trampa Rocas",
     "tricks": [
       {
-        "detail": "HIDROBOMBA → Observa el objeto equipado",
+        "detail": "Eelektross ➜ Gengar Otra Vez,Maquinacion si no cambia +4 +2 (usa Rayo en Gengar por el cuerpo maldito)",
         "variant": [
           {
-            "detail": "RESTOS → Politoed +6+2 // A Bocajarro para eliminar Umbreon",
+            "detail": "Bisharp ➜ Jirachi va entrar Chandelure Tiene Pañuelo elegido ➜ Chandelure +2 +2 ",
             "variant": [
               {
-                "detail": "Si cambia a Drifblim, usar puño hielo para derrotarlo, entra Jolteon, cambiar a Excadrill y luego a Chandelure para usar Truco, Excadrill y boostea 4+2"
+                "detail": "Se Queda Gengar +4 +2 (Rayo Gengar tiene Cuerpo maldito) Esta Ruta Aplica en Elektross"
               }
             ]
           },
           {
-            "detail": "BAYA ATANIA → Politoed 6 + 4 // Puño Hielo para eliminar Gengar"
+            "detail": "Se Queda Rotom ➜ Dragonite 2 Danza Dragon + Ataque X "
           }
         ]
       },
       {
-        "detail": "CHANDELURE → Usa Bola Sombra para eliminar y observa el siguiente Pokémon",
+        "detail": "Lucario ➜ Gengar Otra Vez Cambia a Gallade Mira Abajo",
         "variant": [
           {
-            "detail": "BISHARP → Cambia a Poliwrath, luego a Chandelure y usa Truco para bloquear Avalancha, Scrafty +3"
+            "detail": "A Umbreon Lo matas con Gallade ➜ Chansey Amortiguador "
           },
           {
-            "detail": "ROTOM → Cambia a Poliwrath, luego a Metagross y espera el Voltiocambio para observar el siguiente Pokémon",
+            "detail": "Lucario ➜ Gengar Otra Vez +4 +2",
             "variant": [
               {
-                "detail": "Eelektross, Bisharp o Lucario → Cambia a Chandelure y usa Truco",
+                "detail": "Jolteon ➜ Chansey Pantalla Luz , si jolteon se queda usa amortiguador",
                 "variant": [
                   {
-                    "detail": "Voltio Cruel → Excadrill coloca Trampa Rocas 4+2"
+                    "detail": "Lucario ➜ Gengar Otra Vez Cambias a Gallande y Matas a Umbreon ➜ Chansey ➜ Jirachi Otra Vez ➜ Chandelure +2 +2 "
                   },
                   {
-                    "detail": "Avalancha o Triturar → Scrafty +3 // Si Paliza queda bloqueado → A Bocajarro para eliminar Rotom"
+                    "detail": "Rotom Lavado ➜ Gallade Espada santa "
                   }
                 ]
               },
               {
-                "detail": "Umbreon → Scrafty +2"
+                "detail": "Jolteon/chandelure/DrilfBlim ➜ Chansey ➜ Jirachi Otra Vez ➜ Chandelure +2 +2  "
+  
               },
               {
-                "detail": "Jolteon → Truco bloquea movimientos eléctricos, Excadrill +4+2",
-                "variant": [
-                    {
-                        "detail": "Si Truco con Metagross falla → Déjalo caer, entra Chandelure y usa Truco nuevamente"
-                    }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "detail": "EELEKTROSS → Usa Truco para recuperar objeto, luego cambia a Chandelure y usa Truco nuevamente para bloquear Voltio Cruel, Excadrill coloca Trampa Rocas 4+2",
-        "variant": []
-      },
-      {
-        "detail": "BISHARP → Chandelure usa Lanzallamas para eliminar, Si entra Chandelure → Scrafty +3",
-        "variant": []
-      }
-    ]
-  }
+                
