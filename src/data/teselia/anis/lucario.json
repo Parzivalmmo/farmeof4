@@ -2,35 +2,33 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A Gengar",
+  "initialMove": "Cambia a Gengar",
   "tricks": [
     {
       "detail": "Eelektross ➜ Chansey cambia ➜ Gengar Otra vez Bola sombra para matar a Froslass ",
       "variant": [
-        {
-          "detail": "Hydreigon ➜ Chansey Trampa Rocas Entra Golurk ➜ gengar Otravez +4 +2  "
-        },
-        {
-          "detail": "Se queda ➜ Gengar Otra Vez +4 (sale Milotic y va resistir los ataques pero no te mata)"
-        },
-        {
-          "detail": "Dragonite ➜ chansey Cambia a Gengar otra Vez Usa Maquinacion Ataca Si sale Lucario/Froslass ➜ chansey Curar/TrampaRocas Gengar Otra Vez +4 +2 "
-        }
+        { "detail": "Dragonite ➜ Chansey Cambia a Gengar Otra Vez Maquinacion y matalo " },
+        { "detail": "Froslass/Lucario ➜ Chansey Amortiguador/TrampaRoca" },
+        { "detail": "Bisharp ➜ Amortiguador Usa Contador" },
+        { "detail": "Eelektross ➜ Gengar Otra Vez +4 +2 " }
       ]
     },
     {
-      "detail": "A bocajarro ➜ Gengar Otra Vez Cambia a Gallade Mata a umbreon ",
+      "detail": "Sale Chandelure : Amortiguador y Pantalla Luz",
       "variant": [
-        {
-          "detail": "DriFblim ➜ Chansey amortiguador Sale Lucario ➜ Gengar +4 +2"
-        },
-        {
-          "detail": "Rotom Lavadora ➜ Chansey Amortiguador Cambia a Jirachi Otra Vez ➜ Chandeluere +2 +2 "
-        },
-        {
-          "detail": " Chandelure ➜ Chansey Pantalla luz Sale Lucario  ➜ Gengar Otra Vez +4 +2"
-        }
+        { "detail": "Eelektross: ➜ Gengar +4 +2" },
+        { "detail": "Hydreigon ➜ Chansey Trampa rocas Sale Golurk, Gengar Otra vez +4 +2 " },
+        { "detail": "Se queda Y usa fuerzaBruta ➜ Gengar +4 (milotic resiste pero no te mata) " },
+        { "detail": "Dragonite ➜ Chansey Cambia a Gengar Otra vez ,Maquinacion atata ➜ Lucario/Froslass ➜ Chansey Amortiguador/Trampa Rocas ➜ Gengar +4 +2 " }
       ]
+    },
+    {
+      "detail": "A bocaJarro ➜ Gengar Otra Vez ➜ Gallande mata a umbreon ",
+      "variant": [
+        { "detail": "Drifblim ➜ Chansey Amortiguador ➜  Lucario Saca a Gengar Otra Vez +4 +2 " },
+        { "detail": "Rotom Lavado ➜ Chansey ➜  Jirachi Otra Vez ➜  Chandelure +2 +2 " }
+       { "detail": "Chandelure ➜ Chansey Pantalla Luz ➜ Lucario ➜ Gengar Otra Vez +4 +2" }
+        ]
     }
   ]
 }
