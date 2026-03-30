@@ -1,23 +1,17 @@
 {
-    "id": "hydreigon",
-    "name": "Hydreigon",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Usa Trampa Rocas,
-    "tricks": [
-      {
-        "detail": "Absol: Cambia a Gengar otra vez Cambia a Jirachi si cambia a Hydreigon Cambia a Chandelure +2 +2",
-        "variant": []
-      },
-      {
-        "detail": "Golurk: Gengar Otra Vez +6 +2,",
-        "variant": [
-          {
-            "detail": ""
-          },
-          {
-            "detail": "."
-          }
-        ]
-      }
-    ]
-  }
+  "id": "hydreigon",
+  "name": "Hydreigon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Usa Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "Absol: Cambia a Gengar otra vez Cambia a Jirachi si cambia a Hydreigon Cambia a Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Golurk: Gengar Otra Vez +6 +2",
+      "variant": [
+       
+    }
+  ]
+}
