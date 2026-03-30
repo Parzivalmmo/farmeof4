@@ -1,20 +1,16 @@
 {
-    "id": "jolteon",
-    "name": "Jolteon",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Truco bloquea Rayo, cambia a Excadrill y evalúa la situación",
-    "tricks": [
-      {
-        "detail": "TRUCO FALLA POR PARÁLISIS, cambia a Excadrill y luego a Chandelure para seguir usando Truco. Si Jolteon no se va, Excadrill usa Danza Espadas +4 y Velocidad X.",
-        "variant": []
-      },
-      {
-        "detail": "JOLTEON NO SE VA, Excadrill usa Danza Espadas +4 y Velocidad X.",
-        "variant": []
-      },
-      {
-        "detail": "UMBREON → Scrafty usa Danza Dragón +3.",
-        "variant": []
-      }
-    ]
-  }
+  "id": "jolteon",
+  "name": "Jolteon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Pantalla Luz 💡",
+  "tricks": [
+    {
+      "detail": "Lucario ➜ Gengar Otra Vez y Cambia a Gallade Para matar a Umbreon (si sale Rotom y no Umbreon mira abajo). Cambia a Chansey usa Amortiguador ➜ Gengar Otra Vez +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "Entró Rotom y no Umbreon ➜ Mata a Rotom, sale Jolteon/Chandelure saca a Chansey ➜ Jirachi Encore entra Chandelure +2 +2",
+      "variant": []
+    }
+  ]
+}
