@@ -17,7 +17,7 @@
               "detail": "Chansey Amortiguador ➜ Entra Bisharp ➜ Gallade Usa Espada Santa En Umbreon"
             },
             {
-              "detail": "ESCRIBE_AQUÍ_NUEVA_SUB_VARIANTE_DE_BISHARP"
+              "detail": ""
             }
           ]
         },
@@ -25,7 +25,7 @@
           "detail": "Cambia a Gallade / si esta Dragonite ↓",
           "variant": [
             {
-              "detail": "ESCRIBE_AQUÍ_ESTRATEGIA_CONTRA_DRAGONITE"
+              "detail": ""
             }
           ]
         }
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "detail": "ESCRIBE_AQUÍ_NUEVO_ESCENARIO_4",
+      "detail": "",
       "variant": [
         {
           "detail": "",
