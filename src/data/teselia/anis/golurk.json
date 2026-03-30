@@ -2,10 +2,14 @@
   "id": "golurk",
   "name": "Golurk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
-   "tricks": [
+  "initialMove": "Trampa Rocas 🪨",
+  "tricks": [
     {
-      "detail": "Bloquea Terremoto, Excadrill pone Trampa Rocas, Cloyster usa Rompecoraza +6",
+      "detail": "Puño Drenaje ➜ Gengar Otra vez +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "Ctegg ➜ Dragonite Encore + Danza Dragón x3 (¿Falta traducir?)",
       "variant": []
     }
   ]
