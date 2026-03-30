@@ -2,7 +2,7 @@
   "id": "purugly",
   "name": "Purugly",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Trampa rocas",
+  "initialMove": "Trampa rocas 🪨 ",
   "tricks": [
     {
       "detail": "Hydreigon ➜ Amortiguador (si no cambia Amortiguador otra vez) ↓",
