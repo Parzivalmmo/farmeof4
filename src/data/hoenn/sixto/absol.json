@@ -5,7 +5,7 @@
   "initialMove": "Trampa rocas",
   "tricks": [
     {
-      "detail": "Sin vida esfera → Cambia a gengar +4+2",
+      "detail": "Sin vida esfera → Cambia a gengar usa OtraVez +4+2",
       "variant": [
         {
           "detail": "Vidasfera → Scrafty +5 o +3 con Ataque X. (Usa Paliza para Toxicroak.)",
