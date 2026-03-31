@@ -2,10 +2,14 @@
   "id": "sharpedo",
   "name": "Sharpedo",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Truco",
+  "initialMove": "🪨trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Bloquea Terremoto, Cloyster +4 / Surf para Bisharp",
+      "detail": "Staraptor ➜ Gengar +4 +2 xdefensa (no usar otra vez)",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ Dragonite cambia a Jirachi Otra Vez ➜ Chandelure +2 +2",
       "variant": []
     }
   ]
