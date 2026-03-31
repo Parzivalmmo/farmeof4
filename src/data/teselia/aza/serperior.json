@@ -2,37 +2,25 @@
   "id": "serperior",
   "name": "Serperior",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "💡 Pantalla luz 💡",
   "tricks": [
     {
-      "detail": "PODER OCULTO → Lanzallamas para eliminar",
+      "detail": "Samurott → Gengar Cambia a Gallande para matar a Tyranitar (mira abajo para seguir) ",
       "variant": [
         {
-          "detail": "MISMAGIUS → Scrafty +2 A Bocajarro para eliminar Gallade Si Bola Sombra es crítico → Usa Raíz Energética para recuperación (prevención de prioridad)"
+          "detail": "Sale Chandelure/Mismagius → Chansey Pantalla luz Frenta a Samurott Gengar otra Vez  +4 +2 (si sale bisharp usa contador con chansey) "
         },
         {
-          "detail": "TYRANITAR→ Cambia a Scrafty, luego a Chandelure y usa Truco",
+          "detail": "Serperior ➜ Jirachi Otra Vez Chandelure +2 +2  (jirachi full vida) ",
           "variant": [
             {
-              "detail": "Avalancha → Scrafty +2 A Bocajarro para eliminar Gallade"
+              "detail": "si serperior mata a jirachi de un critico ➜ chandelure mata a mata a serpeior luego cambia a chansey amortiguador Gengar +4 +2  "
             },
             {
-              "detail": "Triturar → Scrafty +3"
+              
             }
           ]
         }
       ]
     },
-    {
-      "detail": "TYRANITAR → Truco para observar el movimiento",
-      "variant": [
-        {
-          "detail": "AVALANCHA → Scrafty +2 A Bocajarro para eliminar Gallade"
-        },
-        {
-          "detail": "TRITURAR → Scrafty +3"
-        }
-      ]
-    }
-  ]
-}
+    
