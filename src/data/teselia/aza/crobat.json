@@ -2,10 +2,10 @@
   "id": "crobat",
   "name": "Crobat",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Truco bloquea Superdiente",
+  "initialMove": " 🪨Trampa Rocas 🪨 Frente a Haxorus, Amortiguador , Gengar Otra Vez +4 +2(si Crobat se queda usa Amortiguador y pantalla luz)",
   "tricks": [
     {
-      "detail": "Scrafty +3 → El daño de Superdiente irá disminuyendo con el tiempo, no hay que preocuparse",
+      "detail": "Frente a Bisharp ➜ Cambia a Jirachi Frente a Chandelure Cambia a Chandelure +2 +2 (chandelure gafas elegidas) ",
       "variant": []
     }
   ]
