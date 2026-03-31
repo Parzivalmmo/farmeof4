@@ -2,28 +2,15 @@
   "id": "gothitelle",
   "name": "Gothitelle",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡 Pantalla luz 💡 ",
   "tricks": [
     {
-      "detail": "NIDOKING / NIDOQUEEN → Excadrill coloca Trampa Rocas, luego Cloyster +6",
+      "detail": "𝙈𝙚𝙩𝙖𝙜𝙧𝙤𝙨𝙨 ➜ Gengar Otra Vez, cambia a Gallade para debilitar a Umbreon (va a salir Staraptor con Pañuelo Elegido)",
       "variant": []
     },
     {
-      "detail": "STARAPTOR → Chandelure usa Lanzallamas para observar el cambio, si Staraptor no se retira, sigue atacando",
-      "variant": [
-        {
-          "detail": "Milotic → Cambia a Poliwrath, luego a Metagross contra Gothitelle, usa Truco para bloquear Nidoking/Nidoqueen, Excadrill coloca Trampa Rocas, Cloyster +6",
-          "variant": []
-        },
-        {
-          "detail": "Umbreon → Scrafty +3 / A Bocajarro contra Metagross, si Milotic entra, sigue fortaleciendo",
-          "variant": []
-        },
-        {
-          "detail": "Si Nidoking/Nidoqueen ingresan después de Danza Dragón → Cambia a Chandelure y usa Truco para bloquear Terremoto, luego Excadrill coloca Trampa Rocas, Cloyster +6",
-          "variant": []
-        }
-      ]
+      "detail": "𝙎𝙩𝙖𝙧𝙖𝙥𝙩𝙤𝙧 ➜ Gengar +4 no velo (Staraptor con Pañuelo Elegido)",
+      "variant": []
     }
   ]
 }
