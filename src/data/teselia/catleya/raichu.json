@@ -2,18 +2,22 @@
   "id": "raichu",
   "name": "Raichu",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "METAGROSS → Chandelure usa Truco para bloquear Snorlax, Scrafty +2/ Paliza para eliminar Raichu, A Bocajarro para eliminar Snorlax",
+      "detail": "Mienshao ➜ Cambia a Gengar, cambia a Gallade para debilitar a Snorlax",
       "variant": []
     },
     {
-      "detail": "SNORLAX → Cambia a Chandelure contra Metagross, Bola Sombra para presionar, si entra Snorlax Scrafty +2 / Paliza para eliminar Raichu, A Bocajarro para eliminar Snorlax",
+      "detail": "Cinccino ➜ Cambia a Jirachi Otra Vez, Chandelure 0 +2 velo (no ataque especial x ",
       "variant": []
     },
     {
-      "detail": "TRUENO → Excadrill +4+2",
+      "detail": "Metagross ➜ Cambia a Jirachi, usa Defensa X; frente a Xatu usa Otra Vez, Chandelure 0 2( no ataque especial x )",
+      "variant": []
+    },
+    {
+      "detail": "Debilitar a Snorlax frente a Xatu ➜ Cambia a Jirachi Otra Vez, Chandelure 0 +2 velo (no ataque especial)",
       "variant": []
     }
   ]
