@@ -2,14 +2,18 @@
   "id": "absol",
   "name": "Absol",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Cambia a Gengar 💡",
   "tricks": [
     {
-      "detail": "A BOCAJARRO→ Truco bloquea Rocafilada, Scrafty +2 → Paliza para eliminar Samurott",
+      "detail": "Se Queda Absol ➜ Gengar Otra Vez +4 No velo (Absol Banda Focus No te Mata)",
       "variant": []
     },
     {
-      "detail": "BISHARP → Truco bloquea Tajo umbrío, Scrafty +3 → Paliza para eliminar Absol → Si Chandelure cae, usar una Danza Dragón extra",
+      "detail": "Bisharp ➜ Chansey Trampa Rocas ➜ entra Samurott ➜ Cambia a Gengar Otra Vez +4 No Velo",
+      "variant": []
+    },
+    {
+      "detail": "Sale Salamence ➜ Jirachi Otra Vez, Dragonite +3 Danza Dragón",
       "variant": []
     }
   ]
