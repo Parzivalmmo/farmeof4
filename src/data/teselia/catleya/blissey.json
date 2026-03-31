@@ -8,13 +8,16 @@
       "detail": "ABSOL → Cambiar a Gengar con Otra Vez, luego cambiar a Jirachi",
       "variant": [
         {
-          "detail": "Metagross→ Dragonite con 3 danza dragon (No usar Otra Vez / está encerrado)"
+          "detail": "Metagross→ Dragonite con 3 danza dragon (No usar Otra Vez / está encerrado)",
+          "variant": []
         },
         {
-          "detail": "Nidoqueen → Otra Vez y luego Chandelure +2 +2"
+          "detail": "Nidoqueen → Otra Vez y luego Chandelure +2 +2",
+          "variant": []
         },
         {
-          "detail": "Blissey → Chandelure +2 +2 [Si recibe Golpe Veneno curar veneno, empujar hacia Togekiss]"
+          "detail": "Blissey → Chandelure +2 +2 [Si recibe Golpe Toxico curar veneno, empujar hacia Togekiss]",
+          "variant": []
         }
       ]
     }
