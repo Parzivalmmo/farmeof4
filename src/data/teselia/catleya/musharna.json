@@ -2,18 +2,39 @@
   "id": "musharna",
   "name": "Musharna",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Coloca Trampa Rocas",
+  "initialMove": "🪨Trampa rocas 🪨 (  💡Altaria frente a Gengar o Chandelure ➜ No representa amenaza; si Mienshao cae (faint), Chandelure 20hp  y presiona",
+  {
   "tricks": [
     {
-      "detail": "METAGROSS → Cambia a Chandelure Truco bloquear Puño Hielo Scrafty +2 / dos Puño Drenaje para eliminar Metagross",
+      "detail": "Mienshao ➜ Cambia a Gengar , cambia a Gallade para debilitar a Umbreon",
       "variant": []
     },
     {
-      "detail": "UMBREON → Scrafty +2 / dos Paliza para eliminar Metagross",
+      "detail": "Entei ➜ Cambia a Chandelure, cambia a Chansey para usar Contador",
       "variant": []
     },
     {
-      "detail": "RAYO SEÑAL (REPORTAR NOMBRE REAL) → Cambia a Chandelure Truco bloquear Psicocarga Scrafty +4/ A Bocajarro para eliminar Metagross",
+      "detail": "Altaria ➜ Chandelure +2 +2 / Gengar +4 no velo (resistir daño y boostear)",
+      "variant": []
+    },
+    {
+      "detail": "Mienshao ➜ con  Gengar matalo  ; Chandelure +2 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Cambia a Jirachi Protección (igual que arriba); usa Ataque X, mantener y usar Defensa X + Protección",
+      "variant": []
+    },
+    {
+      "detail": "Se queda  ➜ Cambia a Gengar matarlo ",
+      "variant": []
+    },
+    {
+      "detail": "Umbreon ➜ Cambia a Chansey Amortiguador + Contador para debilitar a Entei",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Contador, cambia a Jirachi, cambia a Chandelure +2 no velo  y presiona",
       "variant": []
     }
   ]
