@@ -2,6 +2,31 @@
   "id": "cinccino",
   "name": "Cinccino",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Chandelure contra Metagross, usa Truco para bloquear Snorlax, luego Scrafty +2 // Paliza para eliminar Raichu // A Bocajarro para eliminar Snorlax",
-  "tricks": []
+  "initialMove": "Contador 💡",
+  "tricks": [
+    {
+      "detail": "Sigilyph ➜ Trampa rocas, cambia a Jirachi Otra Vez (algun ataque fuego) ➜ Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Mienshao ➜ Gengar Otra Vez, cambia a Gallade matar a Snorlax frente a Xatu, mete Chansey Amortiguador/Tramparocas (💡 atento aqui) si sale metagros y usa ataque lucha, Gengar +2 +2 No usar Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "CAMBIO AGRESIVO (Heavy pull) A MIENSHAO → Estrategia pendiente de completar",
+      "variant": []
+    },
+    {
+      "detail": "Se queda ➜ Contador para debilitar frente a Mienshao, usar Máx. Poción. Si usa Ida y vuelta, usa Trampa rocas",
+      "variant": []
+    },
+    {
+      "detail": "Mienshao ➜ cambia a Gengar Otra Vez, cambia a Gallade mata a Snorlax (si mienshao usa ida y vuelta gallade entra para matar a snorlax)",
+      "variant": []
+    },
+    {
+      "detail": "Sigilyph ➜ Jirachi Otra Vez ➜ Chandelure +2 +2",
+      "variant": []
+    }
+  ]
 }
