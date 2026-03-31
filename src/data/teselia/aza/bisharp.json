@@ -37,8 +37,9 @@
       "detail": "🎈 Globo Helio Bisharp ➜ Gengar ➜ Otra Vez ➜ Gallade (mata a Tyranitar) ➜ Chansey (Amortiguador)",
       "variant": [
         {
-              "detail": " Si sale Samurott ➜ Gengar Otra Vez +4 +2",
-              "variant": []
+          "detail": " Si sale Samurott ➜ Gengar Otra Vez +4 +2",
+          "variant": []
+        },
         {
           "detail": "Bisharp ➜ Matar con Contador",
           "variant": [
