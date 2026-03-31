@@ -2,14 +2,14 @@
   "id": "salamence",
   "name": "Salamence",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa Rocas🪨 (Si jirachi Muere por critico,Gengar usa otra vez cambia a Dragonite +2 danza dragon) ",
   "tricks": [
     {
-      "detail": "TERREMOTO → Cloyster +4",
+      "detail": "se queda y usa Garra Dragón ➜ cambia a Jirachi Otra Vez ➜ Chandelure +2 +2",
       "variant": []
     },
     {
-      "detail": "Llamarada → Chandelure usa Truco para intercambiar objeto, Cloyster +4",
+      "detail": "Absol ➜ Gengar Otra vez +2 no velo ",
       "variant": []
     }
   ]
