@@ -2,40 +2,30 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Cambia a  Gengar  👻 ",
   "tricks": [
     {
-      "detail": "A BOCAJARRO → Usa Truco para bloquear Roca Afilada, Scrafty +3",
+      "detail": "Patada Salto  ➜ Ver salud (Vida amarilla)",
       "variant": []
     },
     {
-      "detail": "PATADA SALTO ALTA → Usa Truco",
-      "variant": [
-        {
-          "detail": "Si recibe Triturar → Verifica si Chandelure sobrevive",
-          "variant": [
-            {
-              "detail": "Chandelure sobrevive → Scrafty +5 o +3 con Ataque X / Paliza para eliminar Excadrill",
-              "variant": []
-            },
-            {
-              "detail": "Chandelure cae → Metagross usa Truco para bloquear Excadrill, Cloyster +4 (pendiente de pruebas)",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Si el rival se debilita por Patada Salto Alta fallida y entra Vaporeon → Truco para bloquear Hidrobomba, Poder Oculto para sacrificarlo, luego Metagross usa Truco para bloquear Sandslash, Cloyster +6 / Todos caen con Carámbano",
-          "variant": []
-        }
-      ]
-    },  
-    {
-      "detail": "SACRIFICIO → Usa Truco para intercambiar objeto, Scrafty +2 / Puño Drenaje para eliminar Sandslash",
+      "detail": "(Vida Amarilla) ➜ Cambia a Chansey  Trampa rocas frente a Lucario  ; Gengar  +2  vs Lucario; NO usar Otra Vez ",
       "variant": []
     },
     {
-      "detail": "KROOKODILE → Cloyster +4 / Carámbano contra Lucario",
+      "detail": " (Vida Verde) ➜ Gengar  Otra Vez , cambia a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ Jirachi Otra Vez , Dragonite  x4 Danza Dragón ",
+      "variant": []
+    },
+    {
+      "detail": "A bocajarro  ➜ Cambia a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Krookodile  ➜ Dragonite x3 Danza Dragón;  (tiene pañuelo 🐊 )",
       "variant": []
     }
   ]
