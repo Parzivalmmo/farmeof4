@@ -2,14 +2,10 @@
   "id": "forretress",
   "name": "Forretress",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO PARA BLOQUEAR A FLYGON, ELIGE SEGÚN LA SITUACIÓN",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "AHORRAS TIEMPO → Excadrill +4+2 (Terremoto para matar a Skuntank)",
-      "variant": []
-    },
-    {
-      "detail": "AHORRAS DINERO, PERO PIERDES TIEMPO → Excadrill pone Trampa Rocas, Cloyster +4",
+      "detail": "Skuntank ➜ Cambia a Jirachi Otra Vez  , Chandelure +2 +2",
       "variant": []
     }
   ]
