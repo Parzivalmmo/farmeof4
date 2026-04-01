@@ -3,7 +3,9 @@
   "name": "Magnezone",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "🪨Trampa Rocas 🪨 ",
-  "detail": "Breloom ➜ Cambia a Jirachi, cambia a Gengar Otra Vez, cambia a Gallade para debilitar a Tyranitar",
+  "tricks": [
+    {
+      "detail": "Breloom ➜ Cambia a Jirachi, cambia a Gengar Otra Vez, cambia a Gallade para debilitar a Tyranitar",
       "variant": []
     },
     {
@@ -11,7 +13,7 @@
       "variant": []
     },
     {
-      "detail": "Breloom/Conkeldurr ➜ Cambia a GengarOtra Vez +6 no velo ",
+      "detail": "Breloom/Conkeldurr ➜ Cambia a Gengar Otra Vez +6 no velo ",
       "variant": []
     },
     {
@@ -19,7 +21,7 @@
       "variant": []
     },
     {
-      "detail": "Medicham ➜ Chandelure +2 +2; Jugada de riesgo  Gengar +4 (No usar Otra Vez) / Gengar o Magnezone aleatorio",
+      "detail": "Medicham ➜ Chandelure +2 +2; Jugada de riesgo Gengar +4 (No usar Otra Vez) / Gengar o Magnezone aleatorio",
       "variant": []
     },
     {
@@ -27,7 +29,7 @@
       "variant": []
     },
     {
-      "detail": "Conkeldurr ➜ Gengar Otra Vez +4; frente a Magnezone cambia a Chansey  Pantalla de Luz (💡esto falta testear 💡 ) ",
+      "detail": "Conkeldurr ➜ Gengar Otra Vez +4; frente a Magnezone cambia a Chansey Pantalla de Luz (💡esto falta testear 💡 ) ",
       "variant": []
     }
   ]
