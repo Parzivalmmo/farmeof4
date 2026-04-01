@@ -2,14 +2,14 @@
   "id": "omastar",
   "name": "Omastar",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa rocas 🪨 ",
   "tricks": [
     {
-      "detail": "STEELIX → Cloyster +6 (Carámbano para matar a todos)",
+      "detail": "ESCAVALIER ➜ Cambiar a Chandelure ➜ Cambiar a Dragonite con Otra Vez  y x3 Danza Dragón (FRENTE A GASTRODON ➜ Aguantar daño ➜ Danza Dragón (Limpiar quemadura) ",
       "variant": []
     },
     {
-      "detail": "GASTRODON / FLYGON → Cloyster +4 (Carámbano para Debilitar a Omastar y Surf para Escavalier)",
+      "detail": "KINGLER  ➜ Cambiar a Gengar (ghost) con Otra Vez (Encore) ➜ Carga 6-0",
       "variant": []
     }
   ]
