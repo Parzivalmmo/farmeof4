@@ -2,10 +2,10 @@
   "id": "chandelure",
   "name": "Chandelure",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE Y USA BOLA SOMBRA",
+  "initialMove": "🪨 Trampa rocas 🪨 Chandelure +2 +2 (chande enemigo tiene pañuelo)",
   "tricks": [
     {
-      "detail": "Entra Excadrill, otro Bola Sombra para bajarle vida, luego Metagross usa Truco para bloquear Terremoto, Cloyster +4",
+      "detail": "Si te bostear y cambia a excadrill sacrifica a chande ➜ Jirachi otra vez ➜ Dragonite x2 danza dragon ",
       "variant": []
     }
   ]
