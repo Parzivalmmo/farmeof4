@@ -2,18 +2,18 @@
   "id": "feraligatr",
   "name": "Feraligatr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡 contador 💡",
   "tricks": [
     {
-      "detail": "KROOKODILE → Cloyster +4 / Carámbano contra Lucario",
+      "detail": "Escavalier ➜ Trampa rocas cambia a Chandelure +2 +2; ( 💡frente a Gengar Excadrill puede usar Garra Umbría 💡)",
       "variant": []
     },
     {
-      "detail": "EXCADRILL→ Cloyster +4",
+      "detail": "Lucario ➜ Cambia a Gengar cambia a Jirachi;  Trampa rocas  frente a Krookodile, Dragonite  x2 Danza Dragón ;   (💡el cocodrilo se bloquea solo (tiene pañuelo); puede cambiar a  Volcarona  y continuar fortaleciendo ",
       "variant": []
     },
     {
-      "detail": "ESCAVALIER → Usa Truco nuevamente para bloquear Excadrill, luego Cloyster +4",
+      "detail": "si cambia a Volcarona ➜ Continuar usando Danza Dragón ",
       "variant": []
     }
   ]
