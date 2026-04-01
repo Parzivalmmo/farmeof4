@@ -2,28 +2,27 @@
   "id": "machamp",
   "name": "Machamp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE Y ANALIZA",
+  "initialMove": "Cambia a Gengar Otra vez Luego a Jirachi Trampa rocas 🪨 ",
   "tricks": [
     {
-      "detail": "NO SE RETIRA → Usa Truco para bloquear Vendetta, Scrafty +5 o +3 con objeto de fuerza / Paliza contra Crawdaunt / Si chandelure muere, Scrafty debe revivirlo",
+      "detail": "Salamence ➜ Cambia a Chandelure +2 +2; ( 💡 Salamence Pañuelo elegido 💡 ) ",
       "variant": []
     },
     {
-      "detail": "METAGROSS → Usa Truco para bloquear Terremoto, luego Excadrill coloca Trampa Rocas 4+2",
+      "detail": "Conkeldurr ) ➜ Cambia a Chansey, cambia a Gengar Otra Vez +4 +2; si no puede recibir Velocidad X ; ataca hasta Salamence, y cambia a Dragonite Danza Dragón, y ataca ",
       "variant": []
     },
     {
-      "detail": "CONKELDURR → Usa Truco y ajusta según el ataque recibido",
-      "variant": [
-        {
-          "detail": "Puño Trueno → Excadrill +4+2, luego coloca Trampa Rocas",
-          "variant": []
-        },
-        {
-          "detail": "Vendetta → Scrafty +5 o +3 con objeto de fuerza / Encierro contra Crawdaunt",
-          "variant": []
-        }
-      ]
-    }   
+      "detail": "si Jirachi recibe Puño Trueno ➜ Cambia a Chansey , cambia a Gengar Otra Vez +4 +2; si cambia hacia Crawdaunt entra chansey cambia a Gengar Otra Vez +4 +2 (💡Crawdaunt banda focus💡 )",
+      "variant": []
+    },
+    {
+      "detail": "Machamp ➜ Cambia a Gengar , Otra Vez frente a Salamence; cambia a Dragonite x3 Danza dragon ; mantener Gengar debilitar a Salamence (💡Pañuelo elegido 💡)",
+      "variant": []
+    },
+    {
+      "detail": "No cambia ➜ Gengar Otra Vez +4 +2; si no puede recibir Velocidad X; Ataca hasta Salamence, Dragonite danza dragon y ataca (💡 tiene pañuelo 💡)",
+      "variant": []
+    }
   ]
 }
