@@ -2,7 +2,7 @@
   "id": "manectric",
   "name": "Manectric",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRAMPA ROCAS",
+  "initialMove": "🪨TRAMPA ROCAS 🪨",
   "tricks": [
     {
       "detail": "Lucario → Cambia a Gengar",
@@ -12,7 +12,7 @@
           "variant": []
         }, 
         {    
-           "detail": "Abocajarro → Cambia a Jirchi, frente a krokodile cambia a Dragonite +2 (No usar Otra Vez)",
+           "detail": "Abocajarro → Cambia a Jirachi, frente a krokodile cambia a Dragonite +2 (No usar Otra Vez)",
            "variant": []
         }
       ]
