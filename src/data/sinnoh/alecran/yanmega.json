@@ -2,14 +2,14 @@
   "id": "yanmega",
   "name": "Yanmega",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "PUÑO TRUENO Y OBSERVAR SI PARALIZA",
+  "initialMove": " 🪨 ROCAS + PANTALLA LUZ ➜ Jirachi  (Ida y Vuelta) a Flygon ➜ Otra Vez  a Gallade +2 +2",
   "tricks": [
     {
-      "detail": "Si no paraliza: cambia a Chandelure contra Flygon, usa Truco para bloquear con Terremoto, luego entra Cloyster +6. Usa Carámbano para barrer.",
+      "detail": "SIN PANTALLA LUZ ➜ Flygon (Ida y Vuelta) a Gallade ➜ Quedarse con Jirachi (Rayo)",
       "variant": []
     },
     {
-      "detail": "Si paraliza: sigue usando Puño Trueno, cuando entre Flygon, cambia a Excadrill, luego a Chandelure y usa Truco para bloquear con Terremoto, entra Cloyster +6 y limpia con Carámbano.",
+      "detail": ".",
       "variant": []
     }
   ]
