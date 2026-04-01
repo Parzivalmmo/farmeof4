@@ -2,14 +2,10 @@
   "id": "vaporeon",
   "name": "Vaporeon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "🪨 Trampa Rocas 🪨",
   "tricks": [
     {
-      "detail": "REUNICLUS → Truco bloquea Psíquico, Scrafty +3 / A Bocajarro para Vaporeon",
-      "variant": []
-    },
-    {
-      "detail": "METAGROSS → Truco bloquea Terremoto, Excadrill +4+2 → Terremoto elimina Reuniclus",
+      "detail": "Mienshao ➜ Gengar +2 +2; se bloquea solo (self-lock); usa NAIL si tiene el Talento; frente a Vaporeon presionar",
       "variant": []
     }
   ]
