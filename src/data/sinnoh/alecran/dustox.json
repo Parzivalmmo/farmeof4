@@ -2,37 +2,27 @@
   "id": "dustox",
   "name": "Dustox",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO // Si se bloquea Remolino, sin importar quién entre después, siempre debes atacar // una vez derrotado vuelve a Metagross y Truco.",
+  "initialMove": "🪨Trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Gastrodon / Flygon → Cloyster +6. Todo se elimina con Carámbano incluyendo a Kabutops.",
+      "detail": "Se queda  ➜ Cambia a Jirachi",
       "variant": []
     },
     {
-      "detail": "Respiro / Defensa Férrea (Puede ser error de Traducción) → Cambiar a Chandelure, si enfrenta a Gastrodon o Flygon, usar Truco para bloquear Terremoto, luego Cloyster +6. Todo se elimina con Carámbano.",
-      "variant": [
-        {
-          "detail": "Si por error se bloquea Escaldar → Poliwrath +6 Atq / +4 Vel.",
-          "variant": []
-        },
-        {
-          "detail": "Si Venomoth no se retira → Excadrill entra para colocar Trampa Rocas, Cloyster +6 después.",
-          "variant": []
-        }
-      ]
-    },    
+      "detail": "Recibe Remolino  ➜ Luego cambia a Jirachi",
+      "variant": []
+    },
     {
-      "detail": "Tóxico → Cambiar a Chandelure.",
-      "variant": [
-        {
-          "detail": "Gastrodon → Usar Truco para bloquear Terremoto, luego Cloyster +6. // Todo se elimina con Carámbano. // Si por error se activa Escaldar, Poliwrath +6 / +4.",
-          "variant": []
-        },
-        {
-          "detail": "Si no se retira → Excadrill entra para colocar Trampa Rocas, Cloyster +6 después.",
-          "variant": []
-        }
-      ]
+      "detail": "Se queda  ➜ Rayo  frente a Flygon; Otra Vez  Gallade +2 +2 o Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Flygon ➜ Otra Vez  Chandelure +2 +2 / Gallade +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Flygon ➜ Cambia a Dragonite, cambia a Jirachi Otra Vez , Chandelure +2 +2",
+      "variant": []
     }
   ]
 }
