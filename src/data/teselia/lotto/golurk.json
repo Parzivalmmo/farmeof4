@@ -2,14 +2,14 @@
   "id": "golurk",
   "name": "Golurk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "CINTA XPERTO → Cloyster +4",
+      "detail": "Conkeldur→ Gengar otra vez +4 no velo ",
       "variant": []
     },
     {
-      "detail": "RESTOS → Cloyster +4 + Defensa X (Mienshao Banda Focus)",
+      "detail": "Se queda Golurk → Gengar Otra vez +4 no velo",
       "variant": []
     }
   ]
