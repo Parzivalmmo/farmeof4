@@ -1,24 +1,56 @@
 {
-    "id": "throh",
-    "name": "Throh",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "TRAMPA ROCAS",
-    "tricks": [
-        {
-            "detail": "THROW→ Cambia a Chandelure y usa Truco (si enfrenta otro, igualmente cambia a Chandelure), luego bloquea Seismitoad, Cloyster +4 / Surf para eliminar Skarmory",
-            "variant": []
-        },
-        {
-            "detail": "SEISMITOAD→ Cambia a Cloyster, luego a Metagross y usa Truco para bloquear Terremoto, Cloyster +4 / Surf para eliminar Skarmory",
-            "variant": []
-        },
-        {
-            "detail": "AGGRON → Cambia a Chandelure y usa Truco",
-            "variant": [
-                {
-                    "detail": "Aggron no se retira, Chandelure usa un objeto de ataque especial, luego Lanzallamas para eliminar, luego Seismitoad entra, cambia a Cloyster, luego a Metagross y usa Truco para bloquear Terremoto, Cloyster +4 / Surf para eliminar Skarmory"
-                }
-            ]
-        }
-    ]
+  "id": "throh",
+  "name": "Throh",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambiar a Chandelure Cambia a Jirachi 🪨 Trampa rocas 🪨 ",
+  "tricks": [
+    {
+      "detail": "Seismitoad ➜ Cambia a Chansey  Pantalla de Luz ",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr ➜ Gengar Otra Vez +4  +2 (Defensa X)",
+      "variant": []
+    },
+    {
+      "detail": "Seismitoad ➜ Gallade Otra Vez +4  +2 (Defensa X)",
+      "variant": []
+    },
+    {
+      "detail": "Throh ➜ Gengar +4  +2 (Defensa X); ( 💡No usar Otra Vez💡)",
+      "variant": []
+    },
+    {
+      "detail": "Seismitoad ➜ Gallade Otra Vez +4 +0 +2 (Defensa X)",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr ➜ Gengar  Otra Vez, usa  Rayo ",
+      "variant": []
+    },
+    {
+      "detail": "Seismitoad ➜ Gallade Otra Vez +4 +0 +2 (Defensa X)",
+      "variant": []
+    },
+    {
+      "detail": " Ruta en testeo  : método original Aggron puede mantenerse  ➜ cambio de apertura a Gallade; prueba completada ",
+      "variant": []
+    },
+    {
+      "detail": "Aggron ➜ Espada Santa  debilitar",
+      "variant": []
+    },
+    {
+      "detail": "Skarmory ➜ Cambia a Chansey Amortiguador ; Se queda usa  Contador ",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr ➜ Gengar  Otra Vez +4  +2 (Defensa X)",
+      "variant": []
+    },
+    {
+      "detail": "Seismitoad ➜ Gallade Otra Vez +4  +2 (Defensa X)",
+      "variant": []
+    }
+  ]
 }
