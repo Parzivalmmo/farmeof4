@@ -2,14 +2,10 @@
   "id": "escavalier",
   "name": "Escavalier",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 trampa Rocas🪨",
   "tricks": [
     {
-      "detail": "Taladradora → Cloyster +4. / Se puede eliminar a todo con Carámbano.",
-      "variant": []
-    },
-    {
-      "detail": "Megacuerno → Chandelure usa Lanzallamas para debilitar, entra Flygon, Cloyster +4. / Se puede eliminar a todo con Carámbano.",
+      "detail": "se queda  ➜ Cambiar a Chandelure ➜ Cambiar a Dragonite con Otra Vez  y  x3 Danza Dragón FRENTE A GASTRODON ➜ Aguantar daño ➜ Danza Dragón x2 (Eliminar quemadura)",
       "variant": []
     }
   ]
