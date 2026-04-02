@@ -2,14 +2,18 @@
   "id": "huntail",
   "name": "Huntail",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Contra Excadrill: usa Truco para bloquear Terremoto, luego Cloister 6+ // Mata todo con Carámbano",
+      "detail": "Absol ➜ cambiar a Gengar Otra Vez  +2 ataca y su cambia a   Garchomp",
       "variant": []
     },
     {
-      "detail": "Contra Garchomp: usa Truco para bloquear Terremoto, luego Cloyster 6+. Mata a Basculin / Huntail con Carámbano",
+      "detail": "Mienshao ➜ Gengar  rematalo ",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ cambiar a Dragonite; cambiar a Jirachi Otra Vez ; Gallade +4 +2, primero asegurar x velocidad ",
       "variant": []
     }
   ]
