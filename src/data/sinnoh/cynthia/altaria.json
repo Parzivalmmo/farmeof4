@@ -2,6 +2,23 @@
   "id": "altaria",
   "name": "Altaria",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Utiliza Truco para bloquear a Garchomp o Nidoking, luego saca a Excadrill 4+2",
-  "tricks": []
+  "initialMove": "💡 Pantalla Luz 💡",
+  "tricks": [
+    {
+      "detail": "Garchomp ➜ Gallade +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "No Cambia  ➜ Ver si te gana en velocidad",
+      "variant": []
+    },
+    {
+      "detail": " Te gana  ➜ Cambiar a Jirachi Otra Vez ; Chandelure +2 +2; Cambiar a Jirachi frente a Garchomp directamente; cambiar a Gallade +4 +2",
+      "variant": []
+    },
+    {
+      "detail": "¿Ahorrar $? medicina ➜ Mantener Amortiguador frente a Garchomp; Gallade +4 +2 ",
+      "variant": []
+    }
+  ]
 }
