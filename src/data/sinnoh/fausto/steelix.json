@@ -2,14 +2,46 @@
   "id": "steelix",
   "name": "Steelix",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨 Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "Si utiliza Terremoto, cambiar a Cloyster +4 / Carámbano para matar a Magmortar",
+      "detail": "Bouffalant ➜ Chandelure +2 no velo ",
       "variant": []
     },
     {
-      "detail": "Si cambia a Bouffalant, cambiar a Cloyster +2 + Velocidad X",
+      "detail": "Maractus ➜ Jirachi Otra Vez  Chandelure +2 +2 ; (Banda Focus Cacturne ",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr ➜ Gengar  Otra Vez  Maquinación ",
+      "variant": []
+    },
+    {
+      "detail": "Ludicolo / Salamence ➜ Presionar hasta Steelix; Dragonite Otra Vez inmediato Danza Dragón x2 ; Otra Vez atacar ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ Dragonite Otra Vez  Danza Dragón x2 ; Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Medicham ➜ Cambiar a Gengar Atacar ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ Cambiar a Dragonite Otra Vez Danza Dragón x3 ",
+      "variant": []
+    },
+    {
+      "detail": "Typhlosion ➜ Chandelure +2 +2  (Gafas Elegidas)",
+      "variant": []
+    },
+    {
+      "detail": "Camerupt ➜ contador ",
+      "variant": []
+    },
+    {
+      "detail": "Bouffalant ➜ Chandelure +2 no velo (cinta elegida",
       "variant": []
     }
   ]
