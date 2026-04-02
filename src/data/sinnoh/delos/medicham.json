@@ -2,10 +2,14 @@
   "id": "medicham",
   "name": "Medicham",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIAR A CHANDELURE",
+  "initialMove": "💡Cambiar Chandelure Matalo💡",
   "tricks": [
     {
-      "detail": "Utilizar Truco, cambiar a Scrafty +4 o + 2 + Ataque X",
+      "detail": "Dragonite / Empoleon / Raichu ➜ Cambiar a Chansey, cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Gallade ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     }
   ]
