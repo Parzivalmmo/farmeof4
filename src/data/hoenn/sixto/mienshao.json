@@ -2,14 +2,22 @@
   "id": "mienshao",
   "name": "Mienshao",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Cambia a Gengar otra vez para que se muera ",
   "tricks": [
     {
-      "detail": "Patada Salto Alta → cambia a Metagross y come Roca Afilada, luego cambia a Chandelure contra Excadrill, usa Truco para bloquear en Terremoto, entra Cloyster +6. / Todo con Carámbano.",
+      "detail": "Excadrill ➜ Chansey  ASEGURAR Trampa rocas  quedarse y usar Amortiguador ",
       "variant": []
     },
     {
-      "detail": "Contra Excadrill → usa Truco para bloquear en Terremoto, entra Cloyster +6. / Todo con Carámbano.",
+      "detail": "Absol ➜ cambiar a Gengar ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ Otra Vez ; Gallade +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Si Persecución  debilita a Gengar  ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     }
   ]
