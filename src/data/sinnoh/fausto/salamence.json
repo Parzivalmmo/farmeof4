@@ -5,30 +5,44 @@
   "initialMove": "VER SI TIENE INTIMIDACIÓN",
   "tricks": [
     {
-      "detail": "Si tiene Intimidación, cambiar a Chandelure",
-      "variant": [
-        {
-          "detail": "No cambia, utilizar Poder Oculto para matarlo, luego entra Steelix, cambiar a Cloyster y luego a Metagross para usar Truco y bloquearlo en Terremoto, luego cambiar a Cloyster +4 / Carámbano para matar a Magmar.",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a Steelix, utilizar Truco para bloquearlo en Terremoto, luego cambiar a Cloyster +4 / Carámbano para matar a Magmar",
-          "variant": []
-        }
-      ]
+      "detail": "Medicham ➜ Gengar frente a Steelix; Gallade Otra Vez  +6 +2 / Dragonite Otra Vez Danza Dragón x2 ; Otra Vez  (Magmortar Cuerpo Llama )",
+      "variant": []
     },
     {
-      "detail": "No tiene Intimidación, utilizar Truco",
-      "variant": [
-        {
-          "detail": "Si cambia a Steelix, cambiar a Cloyster +4 / Carámbano para matar a Magmortar",
-          "variant": []
-        },
-        {
-          "detail": "Si utiliza Llamarada, cambiar a Chandelure +4+0 / Lanzallamas para matar a todo el equipo",
-          "variant": []
-        }
-      ]
-    }    
+      "detail": "Conkeldurr ➜ Cambiar a Gengar Otra Vez Maquinación",
+      "variant": []
+    },
+    {
+      "detail": "Salamence ➜ Presionar hasta Steelix ; Dragonite Otra Vez  Danza Dragón x3 ; Tierra debilita a Magmortar ",
+      "variant": []
+    },
+    {
+      "detail": "Ludicolo ➜ Luego +4 total 6 no velo  y atacar  ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ Cambiar a Dragonite Otra Vez Danza Dragón x2 ; Otra Vez atacar ",
+      "variant": []
+    },
+    {
+      "detail": "Flareon ➜ Cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Haxorus ➜ Amortiguador ; Gengar  Otra Vez (Encore) +6 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Quedarse con Vidasfera  Colmillo Ígneo  ➜ Amortiguador; cambiar a Gengar  Otra Vez  Maquinación ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ Cambiar a Dragonite Otra Vez inmediato Danza Dragón x2 ; Otra Vez y atacar ",
+      "variant": []
+    },
+    {
+      "detail": "Salamence ➜ Presionar hasta Steelix ; Dragonite  Otra Vez  Danza Dragón x3 ",
+      "variant": []
+    }
   ]
 }
