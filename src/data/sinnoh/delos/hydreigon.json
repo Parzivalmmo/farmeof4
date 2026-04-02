@@ -2,14 +2,14 @@
   "id": "hydreigon",
   "name": "Hydreigon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIAR A CHANDELURE",
+  "initialMove": "Amortiguador",
   "tricks": [
     {
-      "detail": "Si utiliza LLAMARADA, utilizar Bola Sombra, luego cambiar a Scrafty contra Noctowl, Scrafty +2. Puño Drenaje + Paliza matan a Noctowl y Ninetales",
+      "detail": "Fuerza Bruta  con Vidaesfera ➜ Trampa rocas frente a Gallade Gengar  Otra Vez +6 +2 ",
       "variant": []
     },
     {
-      "detail": "Si utiliza LANZALLAMAS, utilizar Truco para bloquear en Pulso Umbrío, luego cambiar a Scrafty 2 // Ninetales banda focus",
+      "detail": "Fuerza Bruta con Pañuelo Elegido➜ Trampa rocas frente a Gallade; cambiar a Gengar , cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ; si envían a Hydreigon, NO usar Otra Vez ",
       "variant": []
     }
   ]
