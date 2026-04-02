@@ -2,10 +2,10 @@
   "id": "mandibuzz",
   "name": "Mandibuzz",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "PANTALLA LUZ",
+  "initialMove": "💡PANTALLA LUZ💡",
   "tricks": [
     {
-      "detail": "Arcanine → Gengar encara 4+2",
+      "detail": "Arcanine → Gengar Otra Vez  +4 +2",
       "variant": []
     }
   ]
