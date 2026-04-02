@@ -2,20 +2,19 @@
   "id": "garchomp",
   "name": "Garchomp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRAMPA ROCAS",
+  "initialMove": "🪨TRAMPA ROCAS🪨",
   "tricks": [
     {
-      "detail": "Se queda → cambia a Dragonite luego a jirachi y encara, luego a chandelura 2+2.",
+      "detail": "Absol ➜ Gengar  Otra Vez ; cambiar a Jirachi; usar a Chandelure hasta que salga Gyarados",
       "variant": []
     },
     {
-      "detail": "Absol → Cambia a Gengar y encara luego cambia a jirachi",
-      "variant": [
-        {
-          "detail": "Garchomp → Jirachi encara despues cambia a Dragonite +2",
-          "variant": []
-        }
-      ]
+      "detail": "Garchomp ➜ Jirachi Otra Vez; Dragonite Danza Dragón x2 ; resistir Colmillo Ígneo  y eliminar quemadura ",
+      "variant": []
+    },
+    {
+      "detail": "Se Queda  ➜ cambiar a Dragonite; cambiar a Jirachi Otra Vez ; Chandelure +2 +2",
+      "variant": []
     }
   ]
 }
