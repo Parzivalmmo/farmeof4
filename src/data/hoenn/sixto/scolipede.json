@@ -2,10 +2,14 @@
   "id": "scolipede",
   "name": "Scolipede",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "USA TRUCO",
+  "initialMove": "🪨TrampaRocas🪨 AMORTIGUADOR  directo ➜ Aguantar presión (Cuidado con Scolipede/Excadrill banda focus)",
   "tricks": [
     {
-      "detail": "para bloquear a Excadrill, entra Cloyster 4.",
+      "detail": "Rezar por estabilidad  ➜ Gengar  Otra Vez ; Maquinación ; presionar hasta Excadrill ; cambiar a Dragonite; cambiar a Jirachi Otra Vez ; Dragonite Danza Dragón x2 ",
+      "variant": []
+    },
+    {
+      "detail": "Buscando velocidad  ➜ Dragonite Danza Dragón x2 ; NO usar Otra Vez ; Scolipede Banda Focus ; cuidado con tu vida  ",
       "variant": []
     }
   ]
