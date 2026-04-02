@@ -2,14 +2,22 @@
   "id": "glaceon",
   "name": "Glaceon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO (EXCADRILL DEBE TENER LA VIDA COMPLETA)",
+  "initialMove": "💡 Cambia a Jirachi 💡",
   "tricks": [
     {
-      "detail": "Si cambia a Garchomp, (Curar a Excadrill a vida completa), cambiar a Excadrill 4+2",
+      "detail": "Garchomp ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Si utiliza Poder Oculto, cambiar a Poliwrath 6+2 / A Bocajarro para matar a Milotic",
+      "detail": "Terremoto tras Otra Vez  ➜ Dragonite Danza Dragón x4  / Gallade +4 +2 ; buscando superar velocidad ; Gallade +2 +2  resistir Puño Meteoro ",
+      "variant": []
+    },
+    {
+      "detail": "Aerodactyl ➜ Protección  frente a Garchomp; ver lo anterior ",
+      "variant": []
+    },
+    {
+      "detail": "Quedarse  ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     }
   ]
