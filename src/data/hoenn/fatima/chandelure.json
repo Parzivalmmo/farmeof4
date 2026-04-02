@@ -2,10 +2,10 @@
   "id": "chandelure",
   "name": "Chandelure",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "🪨Trampa rocas🪨",
   "tricks": [
     {
-      "detail": "Utiliza Truco para bloquear Bola Sombra, sacrifica a Chandelure, luego Scrafty +2 y Ataque X. Usa Puño Drenaje para matar a Regice.",
+      "detail": "Lucario ➜ Chandelure +2 +2 (pañuelo)",
       "variant": []
     }
   ]
