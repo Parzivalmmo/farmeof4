@@ -2,14 +2,14 @@
   "id": "typhlosion",
   "name": "Typhlosion",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIAR A CHANDELURE",
+  "initialMove": "🪨Trampa rocas 🪨",
   "tricks": [
     {
-      "detail": "Si utiliza ESTALLIDO, utilizar Poder Oculto para bajar vida, luego cambiar a Metagross para enfrentar a Steelix, luego utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster +4 / Carámbano para matar a Magmortar",
+      "detail": "Medichan ➜ Cambiar a Gengar y matalo ",
       "variant": []
     },
     {
-      "detail": "Si cambia a STEELIX, utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster +4 / Carámbano para matar a Magmar",
+      "detail": "Steelix ➜ Dragonite otra vez Danza x3",
       "variant": []
     }
   ]
