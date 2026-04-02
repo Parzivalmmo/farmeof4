@@ -2,43 +2,62 @@
   "id": "gyarados",
   "name": "Gyarados",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "LANZA PUÑO TRUENO",
+  "initialMove": "💡Intimidacion mira abajo 💡",
   "tricks": [
     {
-      "detail": "Si falla, no intentes más, cambia directo a Cloister +6 // Mata todo con Carámbano",
+      "detail": "Intimidación  ➜ ASEGURAR Trampa rocas y  frente a Absol ; Gengar Otra Vez  +2 no velo",
       "variant": []
     },
     {
-      "detail": "No lo mató, Puño Trueno y fíjate quién sale después.",
-      "variant": [
-        {
-          "detail": "Si sale Primeape: Chandelure usa Especial X Usa Lanzallamas para barrer",
-          "variant": []
-        },
-        {
-          "detail": "GOLURK → cambia a Scrafty, luego a Chandelure, usa Truco para bloquear Puño Sombra, Scrafty +3. (Si tienes miedo de un crítico en el +2 curate con Raíz Energía) Usa Paliza para matar a Absol.",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "No lo mató y está quemado --> Chandelure usa Truco para cambiar objeto, Cloister +6 y 1 defensa X. Mata todo con Carámbano.",
+      "detail": "Autoestima  ➜ ASEGURAR Trampa rocas",
       "variant": []
     },
     {
-      "detail": "Lo mató, sale Electivire --> cambia a Chandelure, usa Truco para bloquear Voltio, luego Excadrill pone Trampa Rocas 4+2.",
+      "detail": "Darmanitan ➜ cambiar a Gengar  +6 no velo  (drama pañuelo)",
       "variant": []
     },
     {
-      "detail": "LO MATÓ, SALE EXCADRILL → cambia a Cloyster , luego a Metagross, usa Truco para bloquear Terremoto y saca a Cloyster +4 / Scolipede tiene Banda Focus.",
+      "detail": "Golurk ➜ cambiar a Dragonite; cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Lo mató, sale Garchomp --> cambia a Excadrill, luego a Chandelure, usa Truco para bloquear Terremoto, Cloyster +6. Mata todo con Carámbano menos Metagross.",
+      "detail": "Toxicroak ➜ cambiar a Gengar  Otra Vez  +4 no velo; y ataca  tras Otra Vez",
       "variant": []
     },
     {
-      "detail": "Lo mató, sale Darmanitan--> Chandelure Usa Especial X. Usa Lanzallamas para avanza",
+      "detail": "Se queda con Acua Cola ➜ cambiar a Jirachi Rayo ; si es enfrentamiento directo no hace falta Rayo",
+      "variant": []
+    },
+    {
+      "detail": "Electivire / Absol ➜ Otra Vez ; cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Absol ➜ cambiar a Gengar  Otra Vez (Encore) +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ cambiar a Dragonite; cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ cambiar a Dragonite; cambiar a Jirachi Otra Vez ; Gallade +4 +2 , primero asegurar x velocidad ",
+      "variant": []
+    },
+    {
+      "detail": "Maquinación  y huye hacia Mightyena ➜ ataca ",
+      "variant": []
+    },
+    {
+      "detail": "Magnezone ➜ cambiar a huevo  Pantalla de Luz ; cambio pesado ",
+      "variant": []
+    },
+    {
+      "detail": "Luxray ➜ cambiar a huevo; cambiar a Gengar Otra Vez ; frente a Excadrill, ver las variantes de Excadrill",
+      "variant": []
+    },
+    {
+      "detail": "Luxray ➜ Gengar  Otra Vez ; cambiar a Jirachi ante Excadrill; Jirachi Otra Vez ; Gallade +4 +2 , primero asegurar x velocidad",
       "variant": []
     }
   ]
