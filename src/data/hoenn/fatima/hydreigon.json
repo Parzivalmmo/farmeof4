@@ -2,32 +2,59 @@
   "id": "hydreigon",
   "name": "Hydreigon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE Y TRUCO",
+  "initialMove": "🪨trampaRocas🪨",
   "tricks": [
     {
-      "detail": "VIDASFERA + PULSO UMBRÍO→ Scrafty +3 veces. usa Puño Drenaje para matar a Cloyster.",
+      "detail": "Honchkrow ➜ cambiar a Jirachi Otra Vez ; Dragonite Danza Dragón x2 ",
       "variant": []
     },
     {
-      "detail": "VIDASFERA + PULSO DRAGÓN→ sacrificar, Excadrill +4 +2, Cuando Excadrill tiene menos del 47.2% de vida durante el boost, trata de curarlo antes de seguir subiendo.",
+      "detail": "Onda Certera  ➜ verificar objeto ",
       "variant": []
     },
     {
-      "detail": "PAÑUELO ELEGIDO → Poliwrath 6+2+2 (Defensa Especial X). Si usa Puño Hielo para matar a Hydreigon, Lucario o Mismagius, y recibe un crítico psíquico, usa baya para curar y sigue presionando al equipo.",
+      "detail": "Vida Esfera ➜ Pantalla de Luz  + Amortiguador  para forzar el cambio del rival",
       "variant": []
     },
     {
-      "detail": "UMBREON → cambia a Scrafty.",
-      "variant": [
-        {
-          "detail": "Pañuelo elegido→ Scrafty +2, Si Jellicent entra con Pañuelo, usa baya o espera a que pase maldición.",
-          "variant": []
-        },
-        {
-          "detail": "Contra Rotom → cambia a Metagross, usa Truco para bloquear Hidrobomba, luego Poliwrath 6+2.",
-          "variant": []
-        }
-      ]
+      "detail": "Dusknoir  ➜ cambiar a Jirachi; cambiar a Dragonite Otra Vez ; Danza Dragón x3 ; Sombra Vil  Chandelure hace 52%; esperar y curar",
+      "variant": []
+    },
+    {
+      "detail": "Mawile ➜ Dragonite usar x defensa ; Danza Dragón x1; usar x ataque ; si hay poca vida usar Máxima Poción  ( Terremoto para Froslass)",
+      "variant": []
+    },
+    {
+      "detail": "Rotom Lavado  ➜ cambiar a Chansey; cambiar a Jirachi; frente a Dusknoir Dragonite Otra Vez ; Danza Dragón x3 ",
+      "variant": []
+    },
+    {
+      "detail": "Dusknoir ➜ Dragonite Otra Vez ; Danza Dragón x3 ; rezar estabilidad ; primero cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ cambiar a Gengar ",
+      "variant": []
+    },
+    {
+      "detail": "A bocajarro  ➜ cambiar a Chansey; Pantalla de Luz; Chandelure +2 +2 ; (Pañuelo)",
+      "variant": []
+    },
+    {
+      "detail": "Patada Salto Alta  ➜ cambiar a Gengar ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Dusknoir  ➜ Dragonite Otra Vez ; Danza Dragón x3 ",
+      "variant": []
+    },
+    {
+      "detail": "Mawile  ➜ Dragonite usar x defensa; Danza Dragón x1; usar x ataque ; si hay poca vida usar Máxima Poción ",
+      "variant": []
     }
   ]
 }
