@@ -2,18 +2,10 @@
   "id": "froslass",
   "name": "Froslass",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Pantalla luz💡",
   "tricks": [
     {
-      "detail": "BOLA SOMBRA → Scrafty + 3. // Si Paliza queda bloqueado con cuerpo maldito usar danza dragón y curas hasta que se libere la maldición",
-      "variant": []
-    },
-    {
-      "detail": "RAYO → entra Excadrill 4+2.",
-      "variant": []
-    },
-    {
-      "detail": "UMBREON → Scrafty +2. // Si Paliza queda bloqueado con cuerpo maldito usar danza dragón y curas hasta que se libere la maldición",
+      "detail": "Mawile ➜ Dragonite usar x defensa; Danza Dragón x1 ; usar x ataque ; si tiene poca vida  usar Máxima Poción ",
       "variant": []
     }
   ]
