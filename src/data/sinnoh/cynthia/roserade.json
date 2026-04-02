@@ -2,10 +2,22 @@
   "id": "roserade",
   "name": "Roserade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Cambia Jirachi💡",
   "tricks": [
     {
-      "detail": "Utilizar Truco para bloquear a Garchomp con Terremoto, luego cambiar a Excadrill 4+2. Si Excadrill no tiene vida completa, primero curarlo al máximo",
+      "detail": "Aerodactyl ➜ Jirachi Otra Vez ; Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Tierra  ➜ Gallade +4 +2 ( puedes ir mas rapido si va +2 +2 pero puede que metagross no muera de un ataque ) ",
+      "variant": []
+    },
+    {
+      "detail": "Fuego  ➜ Chandelure +2 +2 ",
       "variant": []
     }
   ]
