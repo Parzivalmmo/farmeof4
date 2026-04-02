@@ -1,15 +1,23 @@
-{
+  {
   "id": "excadrill",
   "name": "Excadrill",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Revisa si lleva Globo Helio.",
+  "initialMove": "🪨Trampa rocas🪨.",
   "tricks": [
     {
-      "detail": "TIENE GLOBO: Cambia a Excadrill y luego a Chandelure, usa Truco para bloquear Terremoto, luego Cloyster +6 / Huntail tiene banda focus.",
+      "detail": "Sin Globo Helio Absol/Luxray ➜ cambiar a Gengar Otra Vez ; cambiar a Jirachi",
       "variant": []
     },
     {
-      "detail": "NO TIENE GLOBO: Usa Truco para bloquear Terremoto, luego Cloyster +4",
+      "detail": "Sin Globo Helio : Excadrill ➜ Jirachi Otra Vez; Dragonite Danza Dragón x2 ",
+      "variant": []
+    },
+    {
+      "detail": "Con Globo Helio ➜ cambiar a Gengar  debilitar  a Mienshao",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ cambiar a Dragonite Cambia a Jirachi Otra Vez Gallade +4 +2 ",
       "variant": []
     }
   ]
