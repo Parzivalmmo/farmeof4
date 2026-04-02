@@ -2,14 +2,18 @@
   "id": "ninetales",
   "name": "Ninetales",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "ELIGE TU MISMO",
+  "initialMove": "💡Pantalla luz💡",
   "tricks": [
     {
-      "detail": "Ahorra Recursos→ cambia a Chandelure y usa Truco, bloquea Poder Oculto, Excadrill pone Trampa Rocas, Scrafty + 2.",
+      "detail": "Lucario ➜ Gengar  Otra Vez ; Maquinación ",
       "variant": []
     },
     {
-      "detail": "Versión Rápida → Cola Trampa Rocas, cambia a Chandelure y usa Truco, bloquea Poder Oculto, Scrafty +2",
+      "detail": "Permanecer  ➜ +2 Velocidad ; presionar hasta completar ; ( cuidado con Banda Focus  de Lucario )",
+      "variant": []
+    },
+    {
+      "detail": "Tropius ➜ Dragonite Otra Vez ; Danza Dragón x1 ; usar x ataque; / Danza Dragón x3 ; Garra Dragón  para Dusknoir; resistir a Lucario",
       "variant": []
     }
   ]
