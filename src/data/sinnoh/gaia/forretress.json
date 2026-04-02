@@ -2,12 +2,7 @@
   "id": "forretress",
   "name": "Forretress",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Truco bloquea Terremoto, Cloyster +6.",
-  {
-  "id": "forretress",
-  "name": "Forretress",
-  "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "🪨Trampa Rocas 🪨(",
+  "initialMove": "🪨Trampa Rocas 🪨 (Truco bloquea Terremoto, Cloyster +6.)",
   "tricks": [
     {
       "detail": "Rhyperior ➜ Cambia a Jirachi, cambia a Gallade +6 +2",
