@@ -2,10 +2,22 @@
   "id": "rotom_agua",
   "name": "Rotom Agua",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Poliwrath, luego a Chandelure y espera Voltiocambio",
+  "initialMove": "💡Pantalla luz💡",
   "tricks": [
     {
-      "detail": "Umbreon, Scrafty +2 // Si Paliza queda bloqueado y entra Spiritomb, usa objeto para recuperarse hasta que pasen los turnos de Maldición",
+      "detail": "Politoed ➜ Dragonite usar x defensa ; Danza Dragón x1  usar x ataque si hay poca vida usar Máxima Poción",
+      "variant": []
+    },
+    {
+      "detail": "Permanecer  ➜ cambiar a Dragonite",
+      "variant": []
+    },
+    {
+      "detail": "Mawile ➜ Terremoto ",
+      "variant": []
+    },
+    {
+      "detail": "Dusknoir ➜ cambiar a Jirachi; Dragonite Otra Vez ; Danza Dragón x3",
       "variant": []
     }
   ]
