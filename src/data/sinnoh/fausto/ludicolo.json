@@ -5,32 +5,19 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "Si utiliza DRENADORAS , cambiar a Chandelure",
-      "variant": [
-        {
-          "detail": "BRONZONG, utilizar Truco para bloquear en Poder Oculto / Psicocarga, luego Scrafty +2 / Paliza para matar a todo el equipo",
-          "variant": []
-        },
-        {
-          "detail": "STEELIX, utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster 4 / Carámbano para matar a Magmar",
-          "variant": []
-        },
-        {
-          "detail": "MEDICHAM, cambiar a Scrafty 4 o 2 + Ataque X / Paliza para matar a todo el equipo",
-          "variant": []
-        }
-      ]
-    },    
-    {
-      "detail": "Si utiliza Escaldar, cambiar a Poliwrath 6+2",
+      "detail": "Medicham ➜ Cambia a Gengar  +4 o velocidad NO usar Otra Vez ",
       "variant": []
     },
     {
-      "detail": "Si cambia a Bronzong, cambiar a Chandelure para enfrentar a Medicham, luego cambiar a Scrafty +4 o también +2 + Ataque X / Paliza para matar a todo el equipo",
+      "detail": "Voluntad antigua  ➜ Cambia a Gengar Otra Vez Maquinación ",
       "variant": []
     },
     {
-      "detail": "Si cambia a Steelix, cambiar a Cloyster +4 / Carámbano para matar a Magmar",
+      "detail": "Steelix ➜ Cambia a Dragonite Otra Vez  Danza Dragón x3 ",
+      "variant": []
+    },
+    {
+      "detail": "Salamence ➜ Cambia a Jirachi Otra Vez ( Chandelure +2 +2 ",
       "variant": []
     }
   ]
