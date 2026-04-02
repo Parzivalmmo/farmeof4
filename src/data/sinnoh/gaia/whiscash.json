@@ -2,17 +2,17 @@
   "id": "whiscash",
   "name": "Whiscash",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO BLOQUEAR EN TERREMOTO, CAMBIAR A CLOYSTER +4 CON 4 EVS EN DEFENSA (?)",
+  "initialMove": "🪨Tramparocas🪨",
   "tricks": [
     {
-      "detail": "Si temes que Bronzong haga un crítico, utilizar Defensa X",
+      "detail": "Rhyperior ➜ Gallade Otra Vez +4 +2 ",
       "variant": []
     },
     {
-      "detail": "Si Bronzong hace crítico y mata a Cloyster",
+      "detail": "Parasect ➜ Chandelure +2 +2 (chandelure debe tener mas de 120 de vida para avanzar )",
       "variant": [
         {
-          "detail": "Cambiar a Chandelure y utilizar Lanzallamas, luego entra Blastoise, luego cambiar a Poliwrath 6+2.Bronzong tiene la habilidad Resistencia al Calor, así que Terremoto puede matarlo",
+          "detail": "",
           "variant": []
         }
       ]
