@@ -2,14 +2,18 @@
   "id": "tentacruel",
   "name": "Tentacruel",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A POLIWRATH",
+  "initialMove": "💡Pantalla luz 💡",
   "tricks": [
     {
-      "detail": "Contra Luxray → Excadrill 6+2.",
+      "detail": "Pantalla de Luz frente a Absol ➜ cambiar a Dragonite; usar x defensa ; Danza Dragón x3 ; x ataque; curar hasta 20% ",
       "variant": []
     },
     {
-      "detail": "No cambia → Poliwrath 6+2. / Usa A Bocajarro para matar a Scizor y Scrafty. Primero toma velocidad X",
+      "detail": "Scizor ➜ lanzallamas scizor",
+      "variant": []
+    },
+    {
+      "detail": "Scrafty ➜ Dragonite +4 +2 ; si no hay suficiente  curar ; ante bajada de defensa , asegurar con x defensa ",
       "variant": []
     }
   ]
