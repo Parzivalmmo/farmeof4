@@ -2,14 +2,14 @@
   "id": "beartic",
   "name": "Beartic",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "GENGAR ENCARA DESPUES CAMBIA A CHANSEY Y USA TRAMPA ROCAS",
+  "initialMove": "💡GENGAR otra vez Chansey Trampa rocas 💡(Frente a Walrein o Dewgong ➜ resistir daño)",
   "tricks": [
     {
-      "detail": "Gallade → Gengar +4 (No encares)",
+      "detail": "Gallade → Gengar +4 (no otra vez )",
       "variant": []
     },
     {
-      "detail": "Beartic → Gengar encara +2",
+      "detail": "Beartic → Gengar otra vez  +2",
       "variant": []
     }
   ]
