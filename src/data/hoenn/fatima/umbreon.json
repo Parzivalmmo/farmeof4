@@ -2,10 +2,10 @@
   "id": "umbreon",
   "name": "Umbreon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡PantallaLuz Amortiguador 💡 ",
   "tricks": [
     {
-      "detail": "Scrafty +2. Si Paliza queda bloqueada frente a Dusknoir, usa Medicina o Danza Dragón para aguantar turnos.",
+      "detail": "Politoed  ➜ Dragonite usar x defensa ; Danza Dragón x1  usar x ataque ; si los PS son bajos , usar Máxima Poción ",
       "variant": []
     }
   ]
