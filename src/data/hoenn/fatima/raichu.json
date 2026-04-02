@@ -2,22 +2,10 @@
   "id": "raichu",
   "name": "Raichu",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Pantalla Luz💡",
   "tricks": [
     {
-      "detail": "Poder Oculto → Scrafty +2. Puño Drenaje + A bocajarro para matar a Mandibuzz.",
-      "variant": []
-    },
-    {
-      "detail": "Rayo → Excadrill 6+2.",
-      "variant": []
-    },
-    {
-      "detail": "Dusknoir / Tangrowth → Cloyster +4",
-      "variant": []
-    },
-    {
-      "detail": "Mandibuzz → Scrafty +3",
+      "detail": "Arcanine ➜ Gengar  Otra Vez ; bostezo manual +4 +2 +2 ; usar x defensa ",
       "variant": []
     }
   ]
