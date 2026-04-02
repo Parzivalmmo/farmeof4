@@ -2,106 +2,83 @@
   "id": "gallade_2",
   "name": "Gallade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIAR A CHANDELURE",
+  "initialMove": "💡Cambiar a Gengar 💡",
   "tricks": [
     {
-      "detail": "NO SE RETIRA, utilizar Truco",
-      "variant": [
-        {
-          "detail": "PSICO CORTE, Scrafty +1, entra Dragonite, usa una Danza Dragón más y barre el equipo, dos Palizas eliminan a Dragonite / Revisa tu vida",
-          "variant": [
-            {
-              "detail": "Si Scrafty es Derrotado por Dragonite, Metagross usa Truco para bloquear Puño Fuego, Chandelure 2+2, lanzallamas barre",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "SOMBRA VIL / PULSO UMBRÍO, Scrafty +2, // El Pulso Umbrío indica que es Zoroark disfrazado así que usa Puño Drenaje",
-          "variant": []
-        },
-        {
-          "detail": "DESEO → Cloyster +4",
-          "variant": []
-        },
-        {
-          "detail": "TAJO UMBRÍO → Observar el objeto",
-          "variant": [
-            {
-              "detail": "RESTOS → Scrafty +2 / Paliza a Ninetales y Noctowl",
-              "variant": []
-            },
-            {
-              "detail": "CHALECO ASALTO → sacrificar a Chandelure, Poliwrath +6, Raíz Energía y luego +2",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "PROTECCIÓN (TRUCO FALLIDO) → Usar Truco de nuevo hasta que tenga éxito",
-          "variant": [
-            {
-              "detail": "Deseo / Protección → Cloyster +4",
-              "variant": []
-            },
-            {
-              "detail": "Espada Santa → Cambiar a Metagross y colocar Trampa Rocas, Chandelure 2 + 2 / Priorizar ataques de alta potencia",
-              "variant": []
-            },
-            {
-              "detail": "Golduck → Cambiar a Metagross y colocar Trampa Rocas, Poliwrath 6 + 2",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "ESPADA SANTA + PAÑUELO ELEGIDO → Scrafty +2",
-          "variant": []
-        },
-        {
-          "detail": "ESPADA SANTA + RESTOS → Cambiar a Metagross y colocar Trampa Rocas, Chandelure 2 + 2 / Priorizar ataques de alta potencia",
-          "variant": []
-        },
-        {
-          "detail": "DRAGONITE → Excadrill 4+2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "SLOWBRO → Cambiar a Metagross y usar Truco para bloquear con Lanzallamas, Chandelure usa 1 Especial X / Usar Lanzallamas para barrer al equipo",
+      "detail": "Frente a Gallade (real) ➜ Cambiar a Jirachi, cambiar a Gengar Otra Vez (Encore) +6 no velo ; solo uno doble Gallade, liderar con Zoroark ; buscando hacerlo mas rapido Jirachi Otra Vez Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "METAGROSS → Usar Lanzallamas para eliminar, observar qué entra 👇🏻",
-      "variant": [
-        {
-          "detail": "Sale Dragonite → Cambiar a Metagross y usar Truco para bloquear con Puño Fuego (Curar a Chandelure hasta más del 60% de PS), luego cambiar a Chandelure 4 + 0 / Usar Lanzallamas para barrer al equipo",
-          "variant": []
-        },
-        {
-          "detail": "Sale Gallade → Cambiar a Scrafty, luego a Chandelure y usar Truco para bloquear con Tajo Umbrio, dejarlo caer, Poliwrath 6 + Revivir a Chandelure, luego +2",
-          "variant": [
-            {
-              "detail": "Si aparece Dragonite contra Scrafty, seguir los pasos mencionados arriba 👆🏻",
-              "variant": []
-            }
-          ]
-        }
-      ]
+      "detail": "Cambiar a Jirachi ➜ Para ver el movimiento ",
+      "variant": []
     },
     {
-      "detail": "DRAGONITE → Cambiar a Metagross y usar Truco para ver el objeto",
-      "variant": [
-        {
-          "detail": "Colmillo Dragón → Chandelure 4 + 0 / Lanzallamas para barrer al equipo",
-          "variant": []
-        },
-        {
-          "detail": "Restos → Cambiar a Chandelure y usar Truco, bloquear con Empoleon, Poliwrath 6 + 2",
-          "variant": []
-        }
-      ]
+      "detail": "Puño Hielo ➜ Cambiar a Gengar Otra Vez +6 +2 (",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Dragonite ➜ Otra Vez , Chandelure +0 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Corre a Empoleon ➜ Cambiar a Chansey , doble cambio  a Medicham; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Psicocorte ➜ Trampa rocas cambiar a Gengar Otra Vez  Rayo una vez y no corre +6 +2 ; Bola Sombra  Gardevoir ver abajo ",
+      "variant": []
+    },
+    {
+      "detail": "Presionar hasta Gardevoir ➜ Cambiar a Chansey , cambiar a Jirachi; frente a Hydreigon cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Corre a Dragonite ➜ Cambiar a Chansey  Amortiguador ",
+      "variant": []
+    },
+    {
+      "detail": "Medicham ➜ Cambiar a Gengar+2 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Gallade ➜ Cambiar a Gengar Otra Vez inmediato +4 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Jirachi Tramparocas quedarse Tajo Umbrío  no Espada Santa ➜ Cambiar a Chansey , cambiar a Gengar Otra Vez  +4 +2 (",
+      "variant": []
+    },
+    {
+      "detail": "Quedarse ante Espada Santa ➜ Ver el daño ",
+      "variant": []
+    },
+    {
+      "detail": "Por encima de 41% ➜ Chandelure +2 +2 (pañuelo)",
+      "variant": []
+    },
+    {
+      "detail": "Menos de 41% ➜ Tramparocas Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Critico  al 61% por límite  ➜ Ver arriba ",
+      "variant": []
+    },
+    {
+      "detail": "Deseo  / Protección  ➜ trampa rocas Chandelure +2 +2  / Gengar +4 +2  NO usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Tajo Umbrío  ➜ Trampa tocas cambiar a Chansey  cambiar a Gengar Otra Vez +2 no velo ; ver situación",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite ➜ Gengar  +2 no velo y atacar ",
+      "variant": []
+    },
+    {
+      "detail": "Quedarse  ➜ Gengar  +6 +2 Bola Sombra  debilita a Gardevoir; Rayo  (efectivamente 2; Hydreigon)",
+      "variant": []
     }
   ]
 }
