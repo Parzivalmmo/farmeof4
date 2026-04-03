@@ -2,10 +2,10 @@
   "id": "torterra",
   "name": "Torterra",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Pantalla luz💡",
   "tricks": [
     {
-      "detail": "Bloquear Terremoto, luego Cloister 4.",
+      "detail": "Frente a Darmanitan saca a Chandelure +2 +2 (tiene pañuelo)",
       "variant": []
     }
   ]
