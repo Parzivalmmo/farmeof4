@@ -2,10 +2,10 @@
   "id": "garchomp",
   "name": "Garchomp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨 (Banda Focus Mismaguis)",
   "tricks": [
     {
-      "detail": "Bloquear Terremoto, Cloyster +6 + Píldora para aumentar Críticos.Todo con ataques de Carámbano. Puede salir un Feraligatr, sin peligro.",
+      "detail": "Terremoto  ➜ cambiar a Jirachi usar Otra Vez ; cambiar a Gallade  +4 +2  priorizar velocidad",
       "variant": []
     }
   ]
