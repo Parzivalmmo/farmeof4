@@ -2,18 +2,30 @@
   "id": "mantine",
   "name": "Mantine",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "USA TRAMPA ROCAS",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "NO CAMBIA → Cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2",
+      "detail": "Girafarig  ➜ cambiar a Gengar ; usar Otra Vez ; Bola Sombra ",
       "variant": []
     },
     {
-      "detail": "MAGNEZONE → Excadrill lo derrota, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2",
+      "detail": "Typhlosion ➜ cambiar a Chandelure; usar Energibola ",
       "variant": []
     },
     {
-      "detail": "GOLURK→ Cambia a Excadrill y luego a Chandelure, contra Mantine usa Truco para bloquear Escaldar, Poliwrath 6+2",
+      "detail": "Frente a Mantine ➜ cambiar a Jirachi para usar Protección ; frente a Typhlosion, Chandelure +2 +2 ; el rival queda encerrado ",
+      "variant": []
+    },
+    {
+      "detail": "Se queda ➜ Chandelure +2 +2 ; el rival queda encerrado ",
+      "variant": []
+    },
+    {
+      "detail": "Magnezone ➜ cambiar a Dragonite; frente a Typhlosion, Gallade  +4 +2 ; frente a Girafarig (Qilin), Gengar Otra Vez  +2 +2 + Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Si permanece con Escaldar ➜ Pantalla de Luz ; cambiar a Dragonite; x3 Danza Dragón ",
       "variant": []
     }
   ]
