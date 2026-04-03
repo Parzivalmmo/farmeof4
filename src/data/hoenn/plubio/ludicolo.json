@@ -2,10 +2,10 @@
   "id": "ludicolo",
   "name": "Ludicolo",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Pantalla Luz Cambi a Gallade +2 +2 (no usar otra vez) 💡 ",
   "tricks": [
     {
-      "detail": "Bloquea Hidrobomba, luego entra Poliwrath +6+2.",
+      "detail": "Roserade y milotic tienen objeto elegido",
       "variant": []
     }
   ]
