@@ -2,10 +2,14 @@
   "id": "stunfisk",
   "name": "Stunfisk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Bloquear Tierra Viva, Cloyster 4",
+      "detail": "Lucario ➜ cambiar a Gengar usar Otra Vez ; cambiar a Jirachi frente a Skuntank, luego cambiar a Chandelure +2 +2 (22)",
+      "variant": []
+    },
+    {
+      "detail": "Cambiar a Chandelure frente a Gliscor ➜ Dragonite usa Danza Dragón x2; Gliscor golpea dos veces, no se puede usar Otra Vez, pero puede aguantar el Tóxico",
       "variant": []
     }
   ]
