@@ -2,18 +2,14 @@
   "id": "typhlosion",
   "name": "Typhlosion",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE, LUEGO SACA A METAGROSS, COLOCA ROCAS Y OBSERVA",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "MANTINE NO SE RETIRA → Chandelure usa Truco para bloquearlo con Escaldar, luego entra Poliwrath +6 At. +2 Vel. // Si cambia a Claydol después de Tambor, matalo con Puño Hielo, saldrá Magnezone, cambia a Excadrill y matalo con terremoto, luego saldrá Mantine, cambia a Poliwrath y boostea +6+2",
+      "detail": "Se queda y hacerlo rapido ➜ abrir con Pantalla de Luz; Dragonite x3; No usar Otra Vez  probar con 1+2; se puede usar Garra Dragón  primero para presionar; si cae por golpe crítico , presionar al salir",
       "variant": []
     },
     {
-      "detail": "MAGNEZONE → Excadrill lo derrota, luego entra Mantine, cambia a Chandelure y usa Truco para bloquear con Escaldar, luego entra Poliwrath +6 At. +2 Vel.",
-      "variant": []
-    },
-    {
-      "detail": "CLAYDOL → Cambia a Excadrill, luego a Chandelure, te enfrentas a Mantine, usa Truco para bloquear Escaldar, luego entra Poliwrath +6 At. +2 Vel.",
+      "detail": "Se queda / esta ruta es mas segura  ➜ cambiar a Chandelure; Bola Sombra; cambiar a Jirachi; usar Protección  para forzar al rival a cambiar a Mantine; frente a Typhlosion, Chandelure +2 +2 ",
       "variant": []
     }
   ]
