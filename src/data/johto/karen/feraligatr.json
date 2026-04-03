@@ -2,18 +2,34 @@
   "id": "feraligatr",
   "name": "Feraligatr",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "GARCHOMP → Cloyster +6 + crítico. / Todo muere con Carámbano.",
+      "detail": "Se Queda ➜ usar Amortiguador contador ",
       "variant": []
     },
     {
-      "detail": "RHYDON → Cloyster +4. Usa Carámbano para matar a Houndoom.",
+      "detail": "Garchomp ➜ cambiar a Jirachi usar Otra Vez ; cambiar a Gallade +4 +2  o a Dragonite +4",
       "variant": []
     },
     {
-      "detail": "CASCADA → Cloyster sube defensa +4 Especial X Si no temes al crítico, puedes no usar Especial X",
+      "detail": "Gallade o Honchkrow  ➜ cambiar a Jirachi y luego a Gengar usar Otra Vez +2(houndoom banda focus)",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior ➜ cambiar a Dragonite usar Otra Vez +4",
+      "variant": []
+    },
+    {
+      "detail": "Se Queda  ➜ cambiar a Gengar  +6 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Gallade ➜ cambiar a Gengar  usar Otra Vez +4 0 velocidad ",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior ➜ cambiar a Dragonite usar Otra Vez  + Danza Dragón x4",
       "variant": []
     }
   ]
