@@ -2,41 +2,19 @@
   "id": "lapras",
   "name": "Lapras",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Steelix → Metagross pone Trampa Rocas, Excadrill 2+0 (Si sale Lapras no importa, ya tienes todas las mejoras hechas)",
+      "detail": "Frente a Tyranitar ➜ Contador ; debilitar ; frente a Metagross, cambiar a Jirachi; usar Protección + Otra Vez ; Chandelure +2 +2 ; aguantar un golpe ",
       "variant": []
     },
     {
-      "detail": "Donphan → Excadrill 6+2",
+      "detail": "Scizor ➜ Amortiguador ; Dragonite danza x4; NO usar Otra Vez ; cuidado con los PS",
       "variant": []
     },
     {
-      "detail": "Rayo + Baya → Excadrill 6+2",
-      "variant": [
-        {
-          "detail": "Tyranitar → Scrafty +4 o +2 y ATK X",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Rayo + Gafas Elegidas → Excadrill 4+2",
+      "detail": "Scizor (¿ahorrar en medicina? probando) ➜ Amortiguador  para forzar el cambio del rival; frente a Steelix, cambiar a Gallade Otra Vez  +2 ; ¿asegurar victoria frente a Steelix?",
       "variant": []
-    },
-    {
-      "detail": "Surf → Revisa el objeto",
-      "variant": [
-        {
-          "detail": "Baya Atania → Poliwrath 6+2",
-          "variant": []
-        },
-        {
-          "detail": "Gafas Elegidas → Pone Trampa Rocas, Poliwrath 6+2",
-          "variant": []
-        }
-      ]
     }
   ]
 }
