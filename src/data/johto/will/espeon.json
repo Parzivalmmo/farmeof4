@@ -1,12 +1,16 @@
 {
-    "id": "espeon",
-    "name": "Espeon",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "USA TRAMPA ROCAS",
-    "tricks": [
-      {
-        "detail": "Umbreon → Scrafty +2",
-        "variant": []
-      }
-    ]
-  }
+  "id": "espeon",
+  "name": "Espeon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Jirachi 🪨TrampaRocas🪨 ",
+  "tricks": [
+    {
+      "detail": "Electivire ➜ Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ usar Rayo ; usar Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    }
+  ]
+}
