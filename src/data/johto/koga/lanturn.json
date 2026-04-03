@@ -2,18 +2,18 @@
   "id": "lanturn",
   "name": "Lanturn",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Pantalla luz💡",
   "tricks": [
     {
-      "detail": "Escaldar → pon Trampa Rocas, Poliwrath 6+2",
+      "detail": "Lucario ➜ Gengar usar Otra Vez ; cambiar a Jirachi ante Skuntank con Pañuelo Elección ",
       "variant": []
     },
     {
-      "detail": "Rayo → Excadrill pone Trampa Rocas 4+2.",
+      "detail": "Gliscor ➜ Gallade  usar Otra Vez +4 +2 ; o Dragonite usar Otra Vez  + Danza Dragón  x2; con +4, Garra Dragón  debilita a Gliscor ",
       "variant": []
     },
     {
-      "detail": "Gliscor → Cloyster 6. / Mátalos a todos con Carámbano.",
+      "detail": "Skuntank ➜ Chandelure +2 +2 ",
       "variant": []
     }
   ]
