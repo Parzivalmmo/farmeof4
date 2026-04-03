@@ -2,6 +2,19 @@
   "id": "quagsire",
   "name": "Quagsire",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Truco para bloquear con Terremoto, luego entra Cloyster +4. // Usa Poder Oculto (Planta) seguido de Carámbano para derrotar a Quagsire / Surf para Gengar y Houndoom, si Surf está bloqueado usar Carámbano",
-  "tricks": []
+  "initialMove": "💡Amortiguador💡 ",
+  "tricks": [
+    {
+      "detail": "Rhyperior ➜ cambiar a Gallade  usar Otra Vez +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Absol ➜ cambiar a Gengar  usar Otra Vez; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Houndoom ➜ cambiar a Chandelure +2 +2 (houndom pañuelo ) ; movimiento de fuego debilita a Gengar ",
+      "variant": []
+    }
+  ]
 }
