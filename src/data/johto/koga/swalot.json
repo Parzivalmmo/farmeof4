@@ -2,10 +2,14 @@
   "id": "swalot",
   "name": "Swalot",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Contador💡",
   "tricks": [
     {
-      "detail": "Bloquear a Whiscash / Stunkfish, Cloyster +4 / Carámbano a Swalot",
+      "detail": "Scizor ➜ cambiar a Chandelure lanzallamas",
+      "variant": []
+    },
+    {
+      "detail": "Crobat ➜ Jirachi usa Otra Vez ; cambiar a Chandelure +2 +2",
       "variant": []
     }
   ]
