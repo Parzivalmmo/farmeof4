@@ -2,10 +2,14 @@
   "id": "nidoking",
   "name": "Nidoking",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡 Pantalla luz 💡 te quedas  ➜ Amortiguador  + Pantalla de Luz ; (esperar a Eelektross en el campo) ",
   "tricks": [
     {
-      "detail": "Bloquea en Tierra Viva, luego entra Cloyster +6 // Usa Surf para derrotar a Regirock.",
+      "detail": "Eelektross ➜ Gengar  Otra Vez  +4  +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Salamence ➜ Gengar atacar  presionar hacia Metagross; Dragonite Danza Dragón +3 ",
       "variant": []
     }
   ]
