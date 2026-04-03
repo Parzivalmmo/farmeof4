@@ -2,10 +2,18 @@
   "id": "hitmonlee",
   "name": "Hitmonlee",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
-  "tricks": [
+  "initialMove": "💡Entra Gengar y Bola sombra💡 ",
+ "tricks": [
     {
-      "detail": "Steelix, luego Cloyster +6.",
+      "detail": "Steelix ➜ cambiar a Galladeusar Otra Vez  +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Machamp ➜ cambiar a chansey , luego a Gengar  usar Otra Vez  + Bola Sombra ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix (variante) ➜ Gallade usa Otra Vez +4 +2 ",
       "variant": []
     }
   ]
