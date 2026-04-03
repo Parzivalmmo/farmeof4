@@ -2,10 +2,46 @@
   "id": "magnezone",
   "name": "Magnezone",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A EXCADRILL",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Excadrill derrota a Magnezone, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2",
+      "detail": "Se Queda ➜ Pantalla de Luz ; cambiar a Dragonite; debilitar primero con Garra Dragón ante Terremoto ",
+      "variant": []
+    },
+    {
+      "detail": "Typhlosion ➜ Gallade  +4 +2 ; No usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Girafarig ➜ Gengar Otra Vez  +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Typhlosion ➜ cambiar a Chandelure; usar Bola Sombra ; si no cambia  Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Mantine ➜ cambiar a Jirachi para usar Protección ; frente a Typhlosion, Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Claydol ➜ Gallade  Otra Vez  +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Girafarig ➜ cambiar a Gengar  usar Otra Vez  Maquinación ",
+      "variant": []
+    },
+    {
+      "detail": "Typhlosion ➜ cambiar a Chandelure; usar Bola Sombra ",
+      "variant": []
+    },
+    {
+      "detail": "Click hacia Mantine ➜ cambiar a Jirachi para usar Protección ; frente a Typhlosion, Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Si permanece  ➜ Chandelure +2 +2 ; el rival queda encerrado ",
       "variant": []
     }
   ]
