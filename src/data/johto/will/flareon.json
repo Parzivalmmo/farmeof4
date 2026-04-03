@@ -2,33 +2,11 @@
   "id": "flareon",
   "name": "Flareon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Cambiar a Gengar y cambia a chandelure +2 +2 ",
   "tricks": [
     {
-      "detail": "ENVITE ÍGNEO → Usa Truco",
-      "variant": [
-        {
-          "detail": "Drapion, Scrafty +2",
-          "variant": []
-        },
-        {
-          "detail": "Empoleon, Poliwrath 6+2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "BRONZONG → Usa Llamarada para eliminarlo",
-      "variant": [
-        {
-          "detail": "Drapion, Scrafty +2",
-          "variant": []
-        },
-        {
-          "detail": "Empoleon, Poliwrath +6+2",
-          "variant": []
-        }
-      ]
+      "detail": "Chandelure +2; ejecutar con Empoleon para continuar fortaleciéndose ; (Escaldar inflige 83% a Chandelure)",
+      "variant": []
     }
   ]
 }
