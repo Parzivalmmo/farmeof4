@@ -2,10 +2,26 @@
   "id": "umbreon",
   "name": "Umbreon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRAMPA ROCAS",
+  "initialMove": "🪨TrampaRocas🪨 Usar Amortiguador",
   "tricks": [
     {
-      "detail": "Sale Scrafty +2",
+      "detail": "Golurk ➜ cambiar a Jirachi; cambiar a Gallade; usar Otra Vez  +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ cambiar a Gengar ; usar Otra Vez ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Electivire ➜ Trampa rocas ; Chandelure +2 +2 ; (el rival queda encerrado ); (si Lucario tiene Banda focus   y prioriza velocidad, no usar trampa rocas )",
+      "variant": []
+    },
+    {
+      "detail": "Gengar Otra Vez frente a Electivire ➜ cambiar a Chansey ; usar Trampa rocas ; frente a Lucario, cambiar a Gengar; Otra Vez  cambiar a Jirachi; Otra Vez fuego; Chandelure +2 +2  frente a Umbreon, usar Protección ",
+      "variant": []
+    },
+    {
+      "detail": "Umbreon ➜ cambiar a Chansey ; cambiar a Jirachi; usar Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     }
   ]
