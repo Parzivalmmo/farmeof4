@@ -2,10 +2,14 @@
   "id": "sharpedo",
   "name": "Sharpedo",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Bloquear Terremoto/Rhyperior, Cloyster +4. // Usa Carámbano para barrer TODO",
+      "detail": "Serperior ➜ cambiar a Jirachi usar Otra Vez ; cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto ➜ Dragonite usa Otra Vez + Danza Dragón x4",
       "variant": []
     }
   ]
