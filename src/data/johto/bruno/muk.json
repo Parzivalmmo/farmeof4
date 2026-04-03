@@ -2,10 +2,18 @@
   "id": "muk",
   "name": "Muk",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRAMPA ROCAS",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Entra Chandelure +4, Vel +0. Usa Lanzallamas para barrer todo el equipo.",
+      "detail": "Metagross ➜ cambiar a Gengar  usar Otra Vez ( +2 no velo y ataca  hasta Muk; presionar +4 +0 ; Muk con Cinta elegida  ",
+      "variant": []
+    },
+    {
+      "detail": "Puya Nociva  ➜ cambiar a Jirachi; frente a Electivire usar Otra Vez  con Jirachi; cambiar a Chandelure +2 +2  mantenerse con Rayo",
+      "variant": []
+    },
+    {
+      "detail": "Jirachi contra Metagross ➜ cambiar a Chandelure para rematar  ver estrategias anteriores",
       "variant": []
     }
   ]
