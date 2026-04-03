@@ -2,10 +2,14 @@
   "id": "jynx",
   "name": "Jynx",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "CHANSEY → Scrafty +1, A bocajarro para matar a Chansey, Luego Puño Drenaje para recuperar vida",
+      "detail": "Electivire ➜ cambiar a Gengar  usar Otra Vez  +4 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Usar Maquinación ; ejecutar hacia ➜ presionar +2 hacia Chansey ; presionar al máximo (+6) para completar",
       "variant": []
     }
   ]
