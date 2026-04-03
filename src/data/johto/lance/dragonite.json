@@ -2,171 +2,98 @@
   "id": "dragonite",
   "name": "Dragonite",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Gema Dragón + Puño Fuego → Chandelure (Truco) para bloquear a Feraligatr. Poliwrath 6+2+2 (Defensa Especial). Necesita Puño Hielo. Si Poliwrath recibe un golpe crítico, usar Raíz Grande para curarse y continuar barriendo.",
+      "detail": "(Infernape) ➜ abrir Pantalla de Luz  y sacrificar ; cambiar a Jirachi Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     },
     {
-      "detail": "Restos + Puño Fuego → Colocar Trampa Rocas, luego cambiar a Chandelure y usar Truco.",
-      "variant": [
-        {
-          "detail": "Kingdra/Feraligatr → Poliwrath 6+2, no necesita Carámbano.",
-          "variant": []
-        },
-        {
-          "detail": "Arcanine → Excadrill 4+2. En prueba, revisar el registro de combate.",
-          "variant": []
-        },
-        {
-          "detail": "Gyarados → Cloyster +4 + Medicina de Defensa. Usar primero la medicina.",
-          "variant": []
-        }
-      ]
-    },   
-    {
-      "detail": "Llamarada → Cambiar a Chandelure y usar Poder Oculto. Si Dragonite no se retira, seguir atacando.",
-      "variant": [
-        {
-          "detail": "Sale Scrafty → Cambiar a Metagross para colocar Trampa Rocas. // Si Metagross falla al colocar Trampa Rocas, usar Excadrill para hacerlo. // Si Scrafty no se va o si entra Infernape, cambiar a Chandelure y usar Truco. 👇🏻",
-          "variant": [
-            {
-              "detail": "Triturar → Evaluar los PS de Dragonite:",
-              "variant": [
-                {
-                  "detail": "Si no está a PS completo → Scrafty +3.",
-                  "variant": []
-                },
-                {
-                  "detail": "Si está a PS completo → usar Protec. Esp (Esto ayuda a que no bajen las estadísticas de tu equipo) y sacrificar, luego Poliwrath 2+2. / Priorizar ataques de alta potencia y eficaces.",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Puño Trueno → Excadrill 4+2.",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Sale Feraligatr → Cambiar a Metagross para colocar Trampa Rocas y sacrificarlo. Luego entra Chandelure con Truco, bloquear Cascada, y Poliwrath 6+2. // Si no se pudo colocar Trampa Rocas, no importa. Usar medicina de Defensa Especial. // Si recibe un golpe crítico significativo usar Raíz Energía.",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "TRUENO → Cambiar a Excadrill",
-      "variant": [
-        {
-          "detail": "Si Dragonite no se va → Excadrill coloca Trampa Rocas, entra Lapras, Poliwrath 6+2.",
-          "variant": []
-        },
-        {
-          "detail": "Contra Steelix → Cambiar a Chandelure y usar Truco para bloquear Terremoto. Luego Excadrill coloca Trampa Rocas + 2+2. // Si cambia a Lapras, Poliwrath 6+2.",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Fuerza Bruta → Revisar el objeto.",
-      "variant": [
-        {
-          "detail": "Si tiene Restos → Cambiar a Chandelure:",
-          "variant": [
-            {
-              "detail": "Si Dragonite no se va → Bola Sombra para revelar a Kangaskhan, Cloyster +4.",
-              "variant": []
-            },
-            {
-              "detail": "Contra Kangaskhan → Cloyster +4.",
-              "variant": []
-            },
-            {
-              "detail": "Contra Haxorus o Metagross → Truco para bloquear Terremoto, Cloyster +4.",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Cinta Elegida → Colocar Trampa Rocas, luego cambiar a Chandelure y usar Truco.",
-          "variant": [
-            {
-              "detail": "Si entra Aerodactyl → Excadrill + Defensa X + 4 + 2.",
-              "variant": []
-            },
-            {
-              "detail": "Si entra Feraligatr → Poliwrath 6+2.",
-              "variant": []
-            }
-          ]
-        }
-      ]
-    },    
-    {
-      "detail": "Garchomp / Steelix / Kangaskhan → Cloyster +4.",
+      "detail": "Arcanine ➜ cambiar a Gengar ; cambiar a Jirachi",
       "variant": []
     },
     {
-      "detail": "Metagross → Revisar el objeto.",
-      "variant": [
-        {
-          "detail": "Si lleva Gema Acero → Cloyster +4.",
-          "variant": []
-        },
-        {
-          "detail": "Si lleva Vidasfera → Chandelure usa Lanzallamas para debilitar. Entra Tyranitar, cambiar a Scrafty y observar el movimiento:",
-          "variant": [
-            {
-              "detail": "Si usa Triturar → Scrafty 3.",
-              "variant": []
-            },
-            {
-              "detail": "Si usa Terremoto → Excadrill 6+2.",
-              "variant": []
-            }
-          ]
-        }       
-      ]
+      "detail": "Hydreigon ➜ Jirachi Otra Vez ; cambiar a Chandelure +2 +2; para asegurar estabilidad primero cambiar a Dragonite y luego a Jirachi",
+      "variant": []
     },
     {
-      "detail": "Ampharos → Cambiar a Excadrill.",
-      "variant": [
-        {
-          "detail": "Si Ampharos no se retira → Excadrill 4+2. / Usar Terremoto para derrotar a Arcanine.",
-          "variant": []
-        },
-        {
-          "detail": "Contra Dragonite → Un solo Cabeza Hierro para romper la habilidad, luego cambiar a Chandelure y usar Poder Oculto para rematar. Evaluar quién entra después:",
-          "variant": [
-            {
-              "detail": "Si entra Arcanine → Excadrill 4+2 + usar medicina fuerte para curarse.",
-              "variant": []
-            },
-            {
-              "detail": "Si entra Feraligatr → Cambiar a Metagross para colocar Trampa Rocas y sacrificarlo. Chandelure usa Truco para bloquear Cascada, Poliwrath 6+2. // Si entra Ampharos, salir con Excadrill 4+2.",
-              "variant": []
-            }
-          ]
-        }       
-      ]
+      "detail": "Steelix ➜ Dragonite Otra Vez  + Danza Dragón x3; Danza Dragón x2 contra Steelix o Scizor aleatorio; con Danza Dragón +1 + Ataque X, Dragonite puede debilitar ",
+      "variant": []
     },
     {
-      "detail": "Hydreigon → Cambiar a Chandelure y usar Truco.",
-      "variant": [
-        {
-          "detail": "Si Hydreigon no se va → Scrafty usa medicina de Defensa Especial +3. / Usar Puño Drenaje para derrotar a Lucario. // Scrafty es derrotado por crítico de Lucario → Chandelure usa Truco para bloquear Pulso Umbrío, revivir a Scrafty, Scrafty 3.",
-          "variant": []
-        },
-        {
-          "detail": "Si entra Feraligatr → Poliwrath 6+2+2 (Defensa Especial). Necesita Puño Hielo. Si recibe golpe crítico de Lucha Especial, usar Raíz Energía para curarse y continuar barriendo.",
-          "variant": []
-        }
-      ]
+      "detail": "Dragonite ➜ observar objeto ",
+      "variant": []
     },
     {
-      "detail": "Tyranitar → Excadrill 6+2.",
+      "detail": "Restos (Leftover) ➜ Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Sin Restos / Gema Dragón  ➜ cambiar a Chansey ; usar Amortiguador ",
+      "variant": []
+    },
+    {
+      "detail": "Arcanine ➜ Chandelure +2 +2 ; el rival queda encerrado",
+      "variant": []
+    },
+    {
+      "detail": "Scizor ➜ Chansey pone Trampa Rocas ; observar daño",
+      "variant": []
+    },
+    {
+      "detail": "Daño 90% ➜ sacrificar a Chansey ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Daño 60% ➜ Danza Dragón +1; observar objeto; si hay golpe crítico , curar ",
+      "variant": []
+    },
+    {
+      "detail": "(Salamence con globo) ➜ Dragonite danza x4; NO usar Otra Vez ; puede ser +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Sin globo ➜ Dragonite danza x2; NO usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Golpe crítico y determinar que no es equipo ➜ Dragonite Danza Dragón +2 +2; NO usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Fuerza Bruta ➜ observar daño",
+      "variant": []
+    },
+    {
+      "detail": "Cinta elegida  golpea a Chansey 90% ➜ Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Si Chansey cae ➜ enviar a Jirachi para poner Trampa Rocas; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Daño 50% ➜ cambiar a Gengar  cambiar a Jirachi Otra Vez  a Fuerza Bruta; Chandelure +2 +2 ; si el daño fue 90% por crítico, usar Chandelure +2 +2  + Poción Máxima directamente",
+      "variant": []
+    },
+    {
+      "detail": "Tyranitar ➜ usar Contador  para debilitar a Tyranitar ; sacrificar a Chansey ",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ cambiar a Jirachi; usar Protección + Otra Vez ; Chandelure +2 +2 ; resistir un golpe ",
+      "variant": []
+    },
+    {
+      "detail": "Ampharos ➜ Gengar +2 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Permanecer ante Garra Dragón  ➜ cambiar a Jirachi; Rayo  + Otra Vez ; Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Sale Gyarados ➜ Jirachi Rayo ; frente a Garchomp usar Otra Vez ; Dragonite Danza Dragón x3",
       "variant": []
     }
   ]
