@@ -2,10 +2,14 @@
   "id": "gliscor",
   "name": "Gliscor",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Amortiguador y Pantalla luz💡",
   "tricks": [
     {
-      "detail": "Bloquear Terremoto, luego Cloyster 6 + Defensa X",
+      "detail": "Puño Incremento ➜ cambiar a Dragonite y chansey ; cambiar a Gengar  usar Otra Vez  +4",
+      "variant": []
+    },
+    {
+      "detail": "Persecución / Velocidad  ➜ Gengar  usa Otra Vez +4 no velo  (aguanta un golpe de Puño Trueno )",
       "variant": []
     }
   ]
