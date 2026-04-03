@@ -1,126 +1,91 @@
-{
+ {
   "id": "xatu",
   "name": "Xatu",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡Pantalla Luz💡",
   "tricks": [
     {
-      "detail": "CLAYDOL CON PSÍQUICO → Excadrill coloca Trampa Rocas, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath +6+2",
+      "detail": "Golurk ➜ Usar Trampa Rocas para ver daño",
       "variant": []
     },
     {
-      "detail": "GOLURK→ Revisa el objeto",
-      "variant": [
-        {
-          "detail": "RESTOS → Excadrill 4+2 / Terremoto para matar a Hypno",
-          "variant": []
-        },
-        {
-          "detail": "CINTA XPERTO → Excadrill +4+2 y vuelve a poner Trampa Rocas, Si cambia a Slowbro mientras te boosteas, entra Poliwrath, luego cambia a Scrafty con +2 en Defensa Especial.",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "MAGNEZONE → Excadrill lo derrota, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2.",
+      "detail": "Si el daño es 35% ➜ cambiar a Jirachi; cambiar a Gallade; usar Otra Vez +2 +2 ",
       "variant": []
     },
     {
-      "detail": "BRONZONG → Cambia a Chandelure",
-      "variant": [
-        {
-          "detail": "Contra Empoleon → Truco para bloquear Escaldar, Poliwrath 6+2,",
-          "variant": []
-        },
-        {
-          "detail": "Contra Tropius → Truco para bloquear Poder Oculto, Scrafty +2 (Bronzong necesita dos golpes)",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "UMBREON → Lanza Trampa Rocas, Scrafty +2",
+      "detail": "Si el daño es 50% ➜ cambiar a Gengar; usar Otra Vez+4 +2 ; priorizar velocidad; cambiar a Jirachi; cambiar a Gallade; usar Otra Vez  +2 +2 ",
       "variant": []
     },
     {
-      "detail": "CLEFABLE → Cambia a Chandelure, según la situación 👇🏻",
-      "variant": [
-        {
-          "detail": "Mov. sísmico → Scrafty +1, cura con Raíz Energía y sube otro +1",
-          "variant": []
-        },
-        {
-          "detail": "Lanzallamas [Zoroark disfrazado] → Truco para cambiar objeto, Scrafty +2",
-          "variant": []
-        },
-        {
-          "detail": "Contra LUCARIO / GARDEVOIR → Truco para bloquear Triturar/Pulso Umbrío, Scrafty +2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "BLISSEY O CHANSEY → Scrafty +1 / A bocajarro para matar a Blissey o Chansey // Luego cura con Puño Drenaje",
+      "detail": "Flareon ➜ cambiar a Gengar ; cambiar a Chandelure +2 +2 ; aprovechar Absorbe Fuego ; frente a Empoleon continuar fortaleciéndose",
       "variant": []
     },
     {
-      "detail": "VIDASFERA + ONDA ÍGNEA → Chandelure usa Bola Sombra para debilitar",
-      "variant": [
-        {
-          "detail": "Si sale Umbreon → Cambia a Metagross y lanza Trampa Rocas, Scrafty +2, Si no puede poner Trampa Rocas con Metagross, usa Excadrill para ponerlas",
-          "variant": []
-        },
-        {
-          "detail": "Si sale Lucario → Cambia a Scrafty, luego a Chandelure con Truco para bloquear Triturar, Scrafty +2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "RESTOS + ONDA ÍGNEA → Scrafty +2 / 2 puño drenaje para matar a Kecleon / Clefeable",
+      "detail": "Electivire con Trueno ➜ usar Trampa Rocas ; Gengar Otra Vez +4 no velo; presionar hacia Chansey (; Gengar  +6",
       "variant": []
     },
     {
-      "detail": "GAFAS ELEGIDAS + ONDA ÍGNEA → Cambia a Chandelure",
-      "variant": [
-        {
-          "detail": "Si no cambia → Bola Sombra para debilitar o matar, entra Hydreigon, Scrafty +2 // (Bronzong necesita dos golpes)",
-          "variant": []
-        },
-        {
-          "detail": "Contra Bronzong → lanzallamas para debilitar o matar:",
-          "variant": [
-            {
-              "detail": "Si sale Hydreigon, Scrafty +3",
-              "variant": []
-            },
-            {
-              "detail": "Si sale Empoleon, Poliwrath 6+2",
-              "variant": []
-            }
-          ]
-        }
-      ]
+      "detail": "Absol ➜ Gengar  +4; No usar Otra Vez ; ejecutar hacia Flareon con Chandelure +2 +2 ; frente a Bronzong cambiar a Chansey para un nuevo cambio ",
+      "variant": []
     },
     {
-      "detail": "CHALECO ASALTO + ONDA ÍGNEA → Cambia a Scrafty",
-      "variant": [
-        {
-          "detail": "No se retira → Scrafty usa Defensa Especial X luego +4 / Usa Puño Drenaje para eliminar Magnezone / Si Metagross está quemado, ayudar a eliminar la quemadura / Si Onda Ígnea baja mucha vida curar con Raíz Energía",
-          "variant": []
-        },
-        {
-          "detail": "Magnezone → Excadrill usa Terremoto para eliminarlo, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath +6+4",
-          "variant": []
-        },
-        {
-          "detail": "Claydol → Excadrill coloca Trampa Rocas, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath +6+4 // Si claydol no se retira, Scrafty +3",
-          "variant": []
-        }
-      ]
+      "detail": "Lucario ➜ Gengar  Otra Vez ; usar Maquinación ",
+      "variant": []
     },
     {
-      "detail": "LANZALLAMAS [disfraz de Zoroark] → Chandelure usa Truco para intercambiar objeto, Scrafty +2 (requiere pruebas)",
+      "detail": "Altaria ➜ Gengar resistir daño; presionar +4 no velo ; No usar Otra Vez  Bola Sombra  hacia Gardevoir; puede enfrentar al ave falsa ; si aparece, analizar",
+      "variant": []
+    },
+    {
+      "detail": "Resistir ave falsa sin bajar precisión ➜ presionar hacia el Altaria real; curar HP al máximo; continuar presionado hasta completar",
+      "variant": []
+    },
+    {
+      "detail": "Resistir ave falsa con baja de precisión o baja por crítico (ctkilled) ➜ cambiar a Jirachi; usar Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Ejecutar hacia Umbreon ➜ cambiar a Chansey ; usar Trampa Rocas )",
+      "variant": []
+    },
+    {
+      "detail": "Electivire ➜ Chandelure +2 +2 ; (testing)",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ cambiar a Gengar  usar Otra Vez ; cambiar a Gallade debilitar a Umbreon; cambiar a Chansey ; cambiar a Jirachi; ante Lucario o Electivire usar Otra Vez  Chandelure +2 +2 ; ante Electivire No usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Se queda  ➜ analizar habilidad/movimiento",
+      "variant": []
+    },
+    {
+      "detail": "Psicocarga  ➜ usar Amortiguador ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Girafarig ➜ usar Trampa Rocas  Otra Vez (Gallade +4 +2 )",
+      "variant": []
+    },
+    {
+      "detail": "Se Queda ➜ usar Eléctrico frente a Magnezone; cambiar a Chansey ; esperar a Girafarig Jirachi Otra Vez ; Gallade  +6 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Typhlosion ➜ usar Trampa Rocas + Pantalla de Luz  Dragonite con Garra Dragón  y Danza Dragón  1+x ataque",
+      "variant": []
+    },
+    {
+      "detail": "Onda Ígnea  ➜ cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Golurk ➜ Gallade usar Otra Vez  +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Xatu ➜ cambiar a Chansey  usar Amortiguador  Gengar  Otra Vez +4 no velo ",
       "variant": []
     }
   ]
