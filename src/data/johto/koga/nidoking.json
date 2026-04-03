@@ -2,10 +2,14 @@
   "id": "nidoking",
   "name": "Nidoking",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Encerrar Tierra Viva, Cloyster +4. / Último Ditto, cambia a Poliwrath y usa A Bocajarro para rematar.",
+      "detail": "Crobat  ➜ cambiar a Gengar ; cambiar a Chandelure para debilitar a Ferrothorn",
+      "variant": []
+    },
+    {
+      "detail": "Nidoking ➜ cambiar a Dragonite; cambiar a Jirachi; usar Otra Vez ; Dragonite usa Danza Dragón  x1",
       "variant": []
     }
   ]
