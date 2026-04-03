@@ -2,10 +2,22 @@
   "id": "golduck",
   "name": "Golduck",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "USA TRAMPA ROCAS",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "entra Umbreon → Scrafty +2",
+      "detail": "Lucario ➜ cambiar a Gengar ; cambiar a Jirachi; usar Rayo; Otra Vez (lucario Banda focus) ",
+      "variant": []
+    },
+    {
+      "detail": "Se queda  ➜ Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Electivire ➜ Chandelure +2 +2 ; el rival queda encerrado ",
+      "variant": []
+    },
+    {
+      "detail": "Se queda ➜ cambiar a Gengar ; usar Rayo  de forma constante hacia Umbreon; debilitar; frente a Xatu, cambiar a Jirachi; Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     }
   ]
