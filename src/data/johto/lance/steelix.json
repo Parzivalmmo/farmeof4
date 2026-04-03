@@ -2,14 +2,30 @@
   "id": "steelix",
   "name": "Steelix",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO Y MIRA EL OBJETO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "BAYA LICHI / CASCO DENTADO → entra Cloyster +4.// Carámbano mata a Lucario",
+      "detail": "Se Queda  ➜ cambio rápido a Otra Vez +4 ",
       "variant": []
     },
     {
-      "detail": "BAYA CHIRI → Metagross pone Trampa Rocas, luego Excadrill 2+0. Si sale Lapras, ignóralo, sigue barriendo.",
+      "detail": "Lapras ➜ cambiar a Chansey  Pantalla de Luz ; frente a Scizor, sacrificar a Chansey; cambiar a Dragonite; Danza Dragón x2 + Ataque X; cuidado con la curación",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Dragonite ➜ Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ Gengar  Otra Vez ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite ➜ Chandelure +2 +2 ; (objeto elegido)",
+      "variant": []
+    },
+    {
+      "detail": "Aerodactyl ➜ Protección; frente a Flygon, Jirachi Otra Vez ; Chandelure +2 +2 ",
       "variant": []
     }
   ]
