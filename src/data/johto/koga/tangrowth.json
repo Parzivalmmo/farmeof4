@@ -2,10 +2,14 @@
   "id": "tangrowth",
   "name": "Tangrowth",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Terremoto, cambia a Cloyster +4 (Sharpedo muere con Carámbano)",
+      "detail": "Se queda ➜ cambiar a Jirachi usar Otra Vez ; cambiar a Chandelure +2 +2; usar Otra Vez contra movimientos de Tierra ; cambiar a Gallade +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Ahorrar dinero en medicinas ➜ cambiar a Chandelure; cambiar a Gallade usar Otra Vez +2 +2",
       "variant": []
     }
   ]
