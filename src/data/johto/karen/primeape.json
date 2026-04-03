@@ -2,14 +2,14 @@
   "id": "primeape",
   "name": "Primeape",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Gengar Otra vez Cambiar a jirachi 🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Frente a Hydreigon, saco a Scrafty +3. / Paliza para Primeape",
+      "detail": "Hydreigon/Flareon ➜ cambiar a Chandelure +2 +2  corre hacia Houndoom sin peligro de amenaza ; continuar fortaleciendo",
       "variant": []
     },
     {
-      "detail": "No se va, usó Truco para bloquearlo en Garra Umbría, saca a Scrafty +3",
+      "detail": "Houndoom ➜ usar Otra Vez ; cambiar a Chandelure +2 +2",
       "variant": []
     }
   ]
