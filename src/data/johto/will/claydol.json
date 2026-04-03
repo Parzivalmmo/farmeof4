@@ -1,7 +1,32 @@
 {
-    "id": "claydol",
-    "name": "Claydol",
-    "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Excadrill y usas Trampa Rocas, entra Mantine, cambia a Chandelure y usa Truco, lo deja bloqueado en Escaldar, cambia a Poliwrath 6+2",
-    "tricks": []
-  }
+  "id": "claydol",
+  "name": "Claydol",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨TrampaRocas🪨",
+  "tricks": [
+    {
+      "detail": "Girafarig ➜ cambiar a Gengar ; Otra Vez  cambiar a Gallade",
+      "variant": []
+    },
+    {
+      "detail": "Typhlosion ➜ cambiar a Chandelure; usar Bola Sombra ; cambiar a Jirachi para proteger ; frente a Typhlosion, Chandelure +2 +2 ; el rival queda encerrado en ( Pañuelo elegido); si Typhlosion se queda, usar Bola Sombra directamente con Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Magnezone ➜ Debilitar ",
+      "variant": []
+    },
+    {
+      "detail": "Mantine / Xatu ➜ cambiar a Chansey  Pantalla de Luz ; permanecer y usar Amortiguador",
+      "variant": []
+    },
+    {
+      "detail": "Girafarig ➜ Jirachi Protección ",
+      "variant": []
+    },
+    {
+      "detail": "Typhlosion ➜ Chandelure +2 +2 ",
+      "variant": []
+    }
+  ]
+}
