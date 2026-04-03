@@ -2,24 +2,15 @@
   "id": "gallade",
   "name": "Gallade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": " 💡Cambiar a Gengar Otra vez Chansey Trampa Rocas 🪨 ",
   "tricks": [
     {
-      "detail": "Truco, Rhydon →Cloister 4. Usa Carambano para matar a Houndoom.",
+      "detail": "Rhyperior ➜ usar Trampa Rocas; frente a Honchkrow , cambiar a Gengar  usar Otra Vez +6; Gengar +4 si Rhyperior tiene 91% de vida",
       "variant": []
     },
     {
-      "detail": "Ataque Sorpresa → revisa si Chandelure murió :",
-      "variant": [
-        {
-          "detail": "Si murió → cambia a Scrafty y luego Metagross, contra Vileplume usa Truco para bloquear a Rhydon, luego Cloister 4. Usa Carambano para matar a Houndoom.",
-          "variant": []
-        },
-        {
-          "detail": "Si no murió → Scrafty 4 o 2+ con Ataque. Usa Paliza para matar a Houndoom.",
-          "variant": []
-        }
-      ]
+      "detail": "Rhyperior ➜ cambiar a Dragonite usar Danza Dragón  x4",
+      "variant": []
     }
   ]
 }
