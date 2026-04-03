@@ -2,14 +2,22 @@
   "id": "blastoise",
   "name": "Blastoise",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A POLIWRATH",
+  "initialMove": "💡Pantalla luz💡",
   "tricks": [
     {
-      "detail": "Hidro Bomba → Poliwrath 6+2.",
+      "detail": "Blaziken ➜ cambiar a Chandelure +2 +2 ; se queda encerrado ",
       "variant": []
     },
     {
-      "detail": "Contra Machamp → Chandelure usa Truco y lo bloquea en Roca Afilada. Luego entra Scrafty 2+ y usa Raíz Energía, después sube +1 más. Si Chandelure muere, haz un Danza Dragón extra.",
+      "detail": "Puño Incremento  ➜ cambiar a Dragonite y luego a chansey; cambiar a Gengar  usar Otra Vez  +4",
+      "variant": []
+    },
+    {
+      "detail": "Machamp ➜ cambiar a Gengar  usar Otra Vez (Encore) +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Maquinación y cambio a Metagross ➜ debilitar  frente a Blaziken; cambiar a Chandelure +2 +2 ",
       "variant": []
     }
   ]
