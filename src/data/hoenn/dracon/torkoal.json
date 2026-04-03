@@ -2,10 +2,10 @@
   "id": "torkoal",
   "name": "Torkoal",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A JIRACHI",
+  "initialMove": "💡CAMBIA A JIRACHI💡",
   "tricks": [
     {
-      "detail": "Gallade → Gengar +2 (No Otra Vez)",
+      "detail": "Gallade → Gengar +2 (No Otra Vez) (cinta elegida)",
       "variant": []
     }, 
     {
