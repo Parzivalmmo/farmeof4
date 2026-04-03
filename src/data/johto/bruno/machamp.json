@@ -2,95 +2,98 @@
   "id": "machamp",
   "name": "Machamp",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "💡Gengar💡",
   "tricks": [
     {
-      "detail": "Puño Drenaje → Usar Truco",
-      "variant": [
-        {
-          "detail": "Roca Afilada → Excadrill 4 + 2",
-          "variant": []
-        },
-        {
-          "detail": "Corpulencia / Descanso → Cambiar a Metagross",
-          "variant": [
-            {
-              "detail": "Metagross → Truco y bloquear Terremoto, luego Cloyster +4",
-              "variant": []
-            },
-            {
-              "detail": "Darmanitan → Cambiar a Chandelure:",
-              "variant": [
-                {
-                  "detail": "Opción Rápida: Usar Chandelure con +4 en Ataque Especial, luego Truco para intercambiar objeto // Barrer con Lanzallamas",
-                  "variant": []
-                },
-                {
-                  "detail": "Ahorra Recursos: Usar Truco dos veces, bloquear con Avalancha // Scrafty +3",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Machamp no se retira → Truco para bloquear Quagsire / Torterra / Metagross / Seismitoad , Cloyster +4",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Puño Drenaje → Usar Lanzallamas // Si Machamp no se retira o aparece Torterra, seguir usando Lanzallamas",
-          "variant": [
-            {
-              "detail": "Entra Darmanitan → Excadrill 4 + 0 // Si darmanitan recupera salud cambia a Chandelure +4 + 0 y utiliza Truco 1 vez // Lanzallamas para barrer",
-              "variant": []
-            },
-            {
-              "detail": "Entra Quagsire / Seismitoad → Cambiar a Cloyster y luego a Metagross con Truco, bloquear Terremoto, Cloyster +4",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Vendetta→ Excadrill pone Trampa Rocas, luego cambiar a Scrafty y después a Metagross // Si aparece Volcarona, usar Puño Trueno (si entra Steelix), Cloyster +2 + Medicina Especial",
-          "variant": []
-        },
-        {
-          "detail": "Quagsire / Torterra / Seismitoad → Cloyster +4",
-          "variant": []
-        },
-        {
-          "detail": "Darmanitan → Scrafty +3",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Puño Dinámico → Truco y revisar el objeto",
-      "variant": [
-        {
-          "detail": "Baya Atania → Scrafty +3 (A Bocajarro mata a Hitmontop) // Te puedes curar con Puño Drenaje si estás +2",
-          "variant": []
-        },
-        {
-          "detail": "Restos → Scrafty usa medicina de Defensa y boostea a +3 (puede curarse con Puño Drenaje si está +2) // A Bocajarro para matara a Machamp o 2 Puño Drenaje si quieres curarte",
-          "variant": []
-        },
-        {
-          "detail": "Blastoise → Poliwrath +6 +2",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "Krookodile → Cloyster +4 + Especial X // Carámbano para Lucario",
+      "detail": "Puño Dinámico  ➜ cambiar a Gengar  usar Otra Vez  + Bola Sombra ",
       "variant": []
     },
     {
-      "detail": "Golem → Truco y bloquear Terremoto → Cloyster +4",
+      "detail": "Con Restos  ➜ Gengar (ghost) +4 +2 ",
       "variant": []
     },
     {
-      "detail": "STEELIX → Cloyster +4 + Medicina Especial // Si no usas medicina especial, hay un 12.5% de probabilidad de ser derrotado de un golpe HERACROSS Tiene Banda Focus usar Carámbano",
+      "detail": "Sin Restos➜ Gengar  +2 no velo y ataca ",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ cambiar a Jirachi usar Otra Vez; cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross ➜ usar Rayo  + Otra Vez cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ cambiar a Gallade usar Otra Vez  +4 +2 (",
+      "variant": []
+    },
+    {
+      "detail": "Llama Esfera + Puño Drenaje  ➜ cambiar a Gengar usar Otra Vez ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Kangaskhan ➜ jirachi Trampa rocas  ; usar Rayo  frente a Steelix; cambiar a Gallade +2 +2 ; (Steelix Cinta elegida) ",
+      "variant": []
+    },
+    {
+      "detail": "Se Queda  ➜ cambiar a Chansey  usar Amortiguador frente a Heracross; cambiar a Gengar  usar Otra Vez ; cambiar a Gallade para matar a Kangaskhan; cambiar a Jirachi; cambiar a Gengar  usar Otra Vez +4 no velo y ataca",
+      "variant": []
+    },
+    {
+      "detail": "Krookodile ➜ Gallade +2 +2  o Dragonite con Danza Dragón  x2 + Ataque X; No usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ ; Trampa rocas  cambiar a Gallade +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Sin quemadura + Puño Drenaje  ➜ cambiar a Gengar  usar Otra Vez; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Golem ➜ cambiar a Dragonite usar Otra Vez + Danza Dragón x3",
+      "variant": []
+    },
+    {
+      "detail": "Salamence ➜ usar Otra Vez ; cambiar a Chandelure +2 +2)",
+      "variant": []
+    },
+    {
+      "detail": "Torterra ➜ Dragonite con Danza Dragón  x3; puede resistir el daño; no usar Otra Vez ",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Trampa tocas ; cambiar a Gengar usar Otra Vez  +2 no velo ; hasta Muk; presionar +4 0 velo ; Muk con Cinta Elección (Choice Band) no es amenaza",
+      "variant": []
+    },
+    {
+      "detail": "Kangaskhan ➜ Jirachi frente a Trampa rocas ",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ Gallade +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Heracross ➜ usar Otra Vez  cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Jirachi Trampa rocas ; cambiar a Gengar  usar Otra Vez  +4 +2 de velocidad ; presionar hasta Muk y luego presionar +4  no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Torterra ➜ Dragonite usar Otra Vez  + Danza Dragón  x3 / Gallade usar Otra Vez  +2 +2 ; Dragonite puede resistir daño; no usar Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "Krookodile ➜ chansey usa contador ",
+      "variant": []
+    },
+    {
+      "detail": "Staraptor ➜ Gengar +6 +2 ); Staraptor con Pañuelo elegido  ; Krookodile  derrotado +4 no velo ",
       "variant": []
     }
   ]
