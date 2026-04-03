@@ -2,10 +2,18 @@
   "id": "poliwrath",
   "name": "Poliwrath",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "USA PUÑO TRUENO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Entra Krookodile: Cambia a Cloyster y Rompecoraza a +6. /Usa Carámbano para Debilitar a Lucario, Metagross.",
+      "detail": "Staraptor ➜ cambiar a Chandelure +2 +2  ( Lucario con Banda Focus ",
+      "variant": []
+    },
+    {
+      "detail": "Machamp ➜ cambiar a Gengar  usar Otra Vez ; cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Krookodile ➜ cambiar a Gallade +4 +2 ; No usar Otra Vez ",
       "variant": []
     }
   ]
