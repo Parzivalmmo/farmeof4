@@ -2,10 +2,10 @@
   "id": "lucario",
   "name": "Lucario",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "Gengar usar Otra Vez ; cambiar a Jirachi; Chandelure +2 +2",
   "tricks": [
     {
-      "detail": "Truco, para encerrar en Triturar, Scrafty +2. Dos Palizas seguidas para matar a Gliscor.",
+      "detail": "Skuntank con Pañuelo Elección  (Crobat con Banda ) no representa una amenaza",
       "variant": []
     }
   ]
