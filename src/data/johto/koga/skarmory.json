@@ -2,19 +2,18 @@
   "id": "skarmory",
   "name": "Skarmory",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "NIDOQUEEN → Cloyster +6 // Elimina todo con Carámbano",
-      "variant": [
-        {
-          "detail": "Si inesperadamente recibe Lanzallamas → Confirma que es Zoroark así que revisa la Estrategia de abajo.",
-          "variant": []
-        }
-      ]
+      "detail": "Pulso Umbrío / Movimiento Fuego ➜ Usar Pantalla Luz ; Jirachi usa Otra Vez ; cambiar a Chandelure +2 +2 ( cuidado con Zoroark transformado )",
+      "variant": []
     },
     {
-      "detail": "LANZALLAMAS (Zoroark Disfraz) → Chandelure usa Truco para intercambiar objeto, Scrafty +3 // Puño Drenaje + A Bocajarro para eliminar Skarmory",
+      "detail": "Pico Taladro ➜ cambiar a Jirachi y usar Protección",
+      "variant": []
+    },
+    {
+      "detail": "Nidoqueen ➜ Jirachi usa Otra Vez ; cambiar a Chandelure +2 +2",
       "variant": []
     }
   ]
