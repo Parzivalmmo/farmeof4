@@ -2,14 +2,26 @@
   "id": "vileplume",
   "name": "Vileplume",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Rhyperior / Excadrill → Cloyster +4. // Carámbano mata a Houndoom",
+      "detail": "Excadrill ➜ usar Contador ",
       "variant": []
     },
     {
-      "detail": "Poder Oculto → Chandelure usa Lanzallamas para rematar, entra Slowbro, Poliwrath +2+6",
+      "detail": "Slowbro sin Puño Drenaje ➜ cambiar a Jirachi protegerse frente a Houndoom ; Jirachi usa Otra Vez; cambiar a Chandelure +2 +2",
+      "variant": []
+    },
+    {
+      "detail": "Slowbro con Puño Drenaje ➜ Gengar +4 +2; no usar Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "Honchkrow / Gallade ➜ cambiar a Gengar  usar Otra Vez +6",
+      "variant": []
+    },
+    {
+      "detail": "Correr hacia Rhyperior ➜ Gallade  usar Otra Vez +4 +2",
       "variant": []
     }
   ]
