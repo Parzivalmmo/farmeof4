@@ -2,10 +2,22 @@
   "id": "victreebel",
   "name": "Victreebel",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "🪨TrampaRocas🪨(banda focus Houndoom)",
   "tricks": [
     {
-      "detail": "Truco para bloquear Terremoto, luego Cloyster +6 // Carámbano mata a Houndoom",
+      "detail": "Se queda  ➜ cambiar a Jirachi, luego a Chandelure; cambiar a Gallade usar Otra Vez  +2 +2 ; cambiar a Chandelure quedarse para debilitar ; frente a Tyranitar ver abajo",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ cambiar a Dragonite, luego a Jirachi usar Otra Vez; Gallade +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Tyranitar ➜ usar Contador ",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ cambiar a Dragonite, luego a Jirachi usar Otra Vez; Gallade  +2 +2 ",
       "variant": []
     }
   ]
