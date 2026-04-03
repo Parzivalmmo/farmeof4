@@ -2,10 +2,10 @@
   "id": "grumpig",
   "name": "Grumpig",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa rocas🪨  Bola sombra para el cerdo",
   "tricks": [
     {
-      "detail": "Entra Blissey, Scrafty +1, A bocajarro para matar a Blissey",
+      "detail": "Electivire➜ Cambiar a Gengar otra vez +4 no velo entra chansey enemigo gengar +6",
       "variant": []
     }
   ]
