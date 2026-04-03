@@ -2,41 +2,35 @@
     "id": "empoleon",
     "name": "Empoleon",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "TRUCO",
-    "tricks": [
-      {
-        "detail": "GOLURK → Excadrill 4+2",
-        "variant": []
-      },
-      {
-        "detail": "BLISSEY / CHANSEY → Scrafty +1 / a bocajarro para matar a Blissey // Paliza vs Jynx",
-        "variant": []
-      },
-      {
-        "detail": "BRONZONG → Chandelure",
-        "variant": [
-          {
-            "detail": "Contra Empoleon → Truco para bloquear Escaldar, Poliwrath 6+2,",
-            "variant": []
-          },
-          {
-            "detail": "Contra Tropius → Truco para bloquear Poder Oculto, Scrafty +2",
-            "variant": []
-          }
-        ]
-      },
-      {
-        "detail": "VIDASFERA → Poliwrath 2 defensa especial x +2 +6, lo mata Mismagius con Encanto,",
-        "variant": [
-          {
-            "detail": "Hydreigon → Chandelure usa Truco para bloquear Poder Oculto, Scrafty +2",
-            "variant": []
-          }
-        ]
-      },
-      {
-        "detail": "GAFAS ELEGIDAS → Poliwrath 6+2 / A bocajarro para matar a Umbreon",
-        "variant": []
-      }
-    ]
-  }
+    "initialMove": "🪨TrampaRocas🪨",
+   "tricks": [
+    {
+      "detail": "Absol ➜ Chandelure +2 +2  (con Pañuelo Elegido) ; si usa Recuperación, usar Amortiguador  y cambiar a Gengar  Otra Vez x4 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Electivire ➜ Gengar Otra Vez +2 no velo ; presionar con Chansey ; Gengar  +6",
+      "variant": []
+    },
+    {
+      "detail": "Hidrobomba/Surf ➜ Abrir con Pantalla de Luz; Dragonite Danza Dragón x1 + aumento de ataque; (Empoleon con objeto elegido )",
+      "variant": []
+    },
+    {
+      "detail": "Flareon ➜ cambiar a Gengar ; cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Rayo Hielo  ➜ cambiar a Chandelure; cambiar a Chansey ",
+      "variant": []
+    },
+    {
+      "detail": "Umbreon  ➜ cambiar a Jirachi",
+      "variant": []
+    },
+    {
+      "detail": "Golurk ➜ Gallade Otra Vez (Encore) +2 +2 ",
+      "variant": []
+    }
+  ]
+}
