@@ -2,14 +2,26 @@
   "id": "hypno",
   "name": "Hypno",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "GOLURK, Excadrill 4+2, Terremoto para matar a Drowzee / Musharna",
+      "detail": "Ataque Tierra  ➜ cambiar a Gengar ; cambiar a Gallade para debilitar a Umbreon",
       "variant": []
     },
     {
-      "detail": "HYPNO NO CAMBIA Y SE QUEDA ENCERRADO EN MOV. SÍSMICO. Saca a chandelure usa bola sombra y debilitarlo luego cambia a metagross y sacrifica para entrar con chandelure y truco. Improvisa xD",
+      "detail": "Xatu ➜ cambiar a Chansey Pantalla de Luz Amortiguador ; presionar frente a Golurk; cambiar a Gengar ; Otra Vez +4 no velo ",
+      "variant": []
+    },
+    {
+      "detail": "Clefable ➜ cambiar a Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Golurk ➜ Gallade Otra Vez  +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Golurk ➜ cambiar a Jirachi; Gallade Otra Vez  +2 +2 ",
       "variant": []
     }
   ]
