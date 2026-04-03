@@ -2,10 +2,10 @@
   "id": "ariados",
   "name": "Ariados",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨 Jirachi (si falla mega cuerno o cornada usar amortiguador)",
   "tricks": [
     {
-      "detail": "Bloquear Rhyperior, Cloyster +4. / Carámbano para todo",
+      "detail": "Tangrowth ➜ Jirachi Otra Vez Chandelure +2 +2 ",
       "variant": []
     }
   ]
