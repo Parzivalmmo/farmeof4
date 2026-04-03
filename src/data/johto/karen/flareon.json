@@ -2,10 +2,10 @@
   "id": "flareon",
   "name": "Flareon",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA CHANDELURE",
+  "initialMove": "💡 Chandelure +2 +2 💡",
   "tricks": [
     {
-      "detail": "Cambiar a Chandelure y usar Bola Sombra; si entra Hydreigon, entrar con Scrafty +3. // Paliza para matar a Primeape (Banda Focus)",
+      "detail": " (Notas Usar movimiento de Fuego ; Infernape  con Banda Focus ; no priorizar velocidad ; Tramparocas primero ",
       "variant": []
     }
   ]
