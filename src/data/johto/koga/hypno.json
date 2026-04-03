@@ -2,18 +2,10 @@
   "id": "hypno",
   "name": "Hypno",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Para encerrar a Rhydon, elige lo que prefieras.",
-      "variant": []
-    },
-    {
-      "detail": "Más Rápido → Excadrill 4+2.",
-      "variant": []
-    },
-    {
-      "detail": "Más barato → Excadrill pone Trampa Rocas, Cloyster 4.",
+      "detail": "Samurott ➜ cambiar a Gengar; usar Otra Vez  +6 +2 ",
       "variant": []
     }
   ]
