@@ -2,46 +2,23 @@
   "id": "ampharos",
   "name": "Ampharos",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CHANDELURE",
+  "initialMove": "🪨TrampaRocas🪨",
   "tricks": [
     {
-      "detail": "Rayo → Observa si el rival tiene Vidasfera:",
-      "variant": [
-        {
-          "detail": "Con Vidasfera → Usa Truco para encerrarlo en Rayo, luego Excadrill +4+2 + Trampa Rocas // Si Truco falla, Metagross usa Cura Total, Luego vuelve a usar Truco, entra Excadrill 4+2+Trampa Rocas. // Terremoto para Arcanine",
-          "variant": []
-        },
-        {
-          "detail": "Sin Vidasfera → Excadrill entra con +6+2",
-          "variant": []
-        }
-      ]
-    },    
+      "detail": "Tyranitar ➜ usar contador",
+      "variant": []
+    },
     {
-      "detail": "Frente a Tyranitar → Cambia a Scrafty y observa el movimiento:",
-      "variant": [
-        {
-          "detail": "Triturar → Scrafty +3",
-          "variant": []
-        },
-        {
-          "detail": "Terremoto → Excadrill +6+2",
-          "variant": []
-        }
-      ]
-    },    
+      "detail": "Metagross ➜ cambiar a Jirachi; Protección + Otra Vez ; Dragonite Danza Dragón +1; ante movimiento aleatorio retirar al común; no debilitar ; Gengar +2 no velo )",
+      "variant": []
+    },
     {
-      "detail": "Frente a Metagross → Usa Lanzallamas para debilitarlo, Entra Tyranitar, Cambia a Scrafty y observa el movimiento:",
-      "variant": [
-        {
-          "detail": "Triturar → Scrafty +3",
-          "variant": []
-        },
-        {
-          "detail": "Terremoto → Excadrill +6+2",
-          "variant": []
-        }
-      ]
-    }    
+      "detail": "Arcanine Cinta elegida ➜ sacrificar a Chansey; Dragonite Danza Dragón +2 o Chandelure +2 +2 ; Chandelure resiste un golpe de Rayo  sin debilitarse; el rival queda encerrado en el movimiento",
+      "variant": []
+    },
+    {
+      "detail": "Feraligatr ➜ Gengar  Otra Vez ; cambiar a Chansey ; sale Arcanine; Chandelure +2 +2 ",
+      "variant": []
+    }
   ]
 }
