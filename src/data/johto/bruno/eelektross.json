@@ -5,15 +5,19 @@
   "initialMove": "Cambia a Chandelure.",
   "tricks": [
     {
-      "detail": "NO CAMBIA → Truco para bloquear Rayo, Excadrill 4+2",
+      "detail": "Blaziken ➜ cambiar a Chandelure +2 +2 /tiene pañuelo",
       "variant": []
     },
     {
-      "detail": "MACHAMP → Truco para bloquear Roca afilada, Scrafty +5 / usa Raíz Energía para curar si tienes muy poca vida (cuidado Hitmonchan puede tener ultrapuño)",
+      "detail": "Frente a Darmanitan ➜ cambiar a Chandelure +2 +2 tiene pañuelo ",
       "variant": []
     },
     {
-      "detail": "TORTERRA / SWAMPERT / METAGROSS → Truco para bloquear Terremoto, Cloyster +4",
+      "detail": "Machamp ➜ cambiar a Gengar usar Otra Vez +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Puño Incremento ➜ cambiar a Dragonite y luego a chansey ; cambiar a Gengar usar Otra Vez +4",
       "variant": []
     }
   ]
