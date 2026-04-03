@@ -2,6 +2,23 @@
   "id": "kangaskhan",
   "name": "Kangaskhan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia directamente a Cloyster con +6. // Si el rival cambia a Metagross, cambiar a Metagross propio y usar Truco para bloquear en Terremoto, luego volver a usar Cloyster con +4.",
-  "tricks": []
+  "initialMove": "🪨TrampaRocas🪨y mira que ataque usan  ",
+  "tricks": [
+    {
+      "detail": "se queda ➜ Contador ",
+      "variant": []
+    },
+    {
+      "detail": "Haxorus ➜ sacrificar a Chansey ; Jirachi Otra Vez ; Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite ➜ sacrificar a Chansey ; Jirachi Otra Vez; Chandelure +2 +2 ; si usa Fuerza Bruta  y debilita a Chansey , Gengar  Otra Vez  +4 no velo  + Defensa X ",
+      "variant": []
+    },
+    {
+      "detail": "Puño Drenaje  ➜ sacrificar a uno ; Dragonite danza x3; NO usar Otra Vez ; atacar  hasta la posición de Metagross; usar Poción Máxima  o fortalecer al frente usando Defensa X ",
+      "variant": []
+    }
+  ]
 }
