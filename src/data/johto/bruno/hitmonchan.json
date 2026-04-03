@@ -2,6 +2,11 @@
   "id": "hitmonchan",
   "name": "Hitmonchan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Cambia a Chandelure y usa Truco para bloquear Roca Afilada, Scrafty +3 / A Bocajarro para eliminar Machamp. // Si Chandelure cae, ajusta a Scrafty +4 o también puede boostear a +2 + objeto Ataque X. (Depende de si lo quieres hacer rápido o quieres ahorrar)",
-  "tricks": []
+  "initialMove": "Cambiar a Dragonite despues a Chansey y Gengar otra vez +4 no velo",
+  "tricks": [
+    {
+      "detail": "Persecución / Velocidad ➜ Gengar  usa Otra Vez  +4 no velo ; aguanta un Puño Trueno ",
+      "variant": []
+    }
+  ]
 }
