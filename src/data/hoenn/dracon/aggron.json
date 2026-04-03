@@ -2,6 +2,11 @@
   "id": "aggron",
   "name": "Aggron",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Coloca Trampa Rocas, luego entra Chandelure con +4 en Ataque Especial. Utiliza Bola Sombra para barrer al equipo.",
-  "tricks": []
+  "initialMove": "💡Contador💡",
+  "tricks": [
+    {
+      "detail": "Gallade ➜ cambiar a Jirachi; cambiar a Gengar  Otra Vez +4  0 Velocidad ; luego Otra Vez  sacrificio Banda Focus  para Gallade / Chansey ; si los HP son bajos  se puede entrar a golpear; jugada arriesgada  puede cambiar directamente a Gengar",
+      "variant": []
+    }
+  ]
 }
