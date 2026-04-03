@@ -2,10 +2,10 @@
   "id": "krookodile",
   "name": "Krookodile",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "CAMBIA A CLOISTER",
+  "initialMove": "🪨TrampaRocas🪨 Chandelure +2 +2 (krokodile y staraptor pañuelo elegido)",
   "tricks": [
     {
-      "detail": "Cloister + 4 + Especial X. Usa Carámbano para matar a Lucario.",
+      "detail": "-",
       "variant": []
     }
   ]
