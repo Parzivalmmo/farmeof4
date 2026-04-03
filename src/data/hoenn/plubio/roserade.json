@@ -2,26 +2,38 @@
   "id": "roserade",
   "name": "Roserade",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "💡 Pantalla luz 💡",
   "tricks": [
     {
-      "detail": "Metagross: entra Chandelure y utiliza Lanzallamas para debilitarlo. Luego puede entrar Seaking o Milotic; en ambos casos entra Poliwrath +6+2. // Usa A Bocajarro para eliminar a Milotic o Walrein. // Si fuiste congelado, usa Cura Total.",
+      "detail": "Hoja Aguda  persistente; asegura que sea Pañuelo Elección  ➜ Dragonite Danza Dragón +4 NO usar Otra Vez ",
       "variant": []
     },
     {
-      "detail": "Milotic: entra Poliwrath +6+2 y usa A Bocajarro para derrotarlo",
+      "detail": "Metagross ➜  Otra Vez (Encore) +4  +2  ; Bola Sombra  debilita a Basculin; si tiene velocidad para perseguir  no es necesario usar velocidad x; existe riesgo de golpe crítico",
       "variant": []
     },
     {
-      "detail": "Eelektross: cambia a Chandelure frente a Milotic, utiliza Truco para bloquear Escaldar, luego entra Poliwrath +6+2 y usa A Bocajarro para eliminar a Milotic o Dewgong",
+      "detail": "Se queda  ➜ para observar información; puede usar Trampa Rocas ; Dragonite Danza Dragón +2 ; puede cargar ",
       "variant": []
     },
     {
-      "detail": "Whiscash: entra Excadrill +4+2",
+      "detail": "【Sin Vidasfera 】 Hoja Aguda ➜ Dragonite Danza Dragón +4 ; NO usar Otra Vez ; Garra Dragón debilita a Milotic  Acua Jet  hace menos del 15% a Dragonite",
       "variant": []
     },
     {
-      "detail": "Poder Oculto: entra Poliwrath +6+2 y usa A Bocajarro para eliminar a Milotic",
+      "detail": "【Sin Vidasfera 】 Bomba Lodo  ➜ cambiar a Jirachi; Trampa Rocas frente a Empoleon; Jirachi Otra Vez ; Dragonite Danza Dragón +1  + ataque x ; frente a Ludicolo, cambiar a Chansey  Pantalla de Luz ; Gallade +2 +2 ; NO usar Otra Vez",
+      "variant": []
+    },
+    {
+      "detail": "【Con Vidasfera 】 ➜ cambiar a Jirachi Protección; observar quién entra ",
+      "variant": []
+    },
+    {
+      "detail": "Togekiss ➜ Chandelure +2 +2 o +4 en ataque especial; no asegura debilitar a Milotic de 1; existe riesgo de golpe crítico ",
+      "variant": []
+    },
+    {
+      "detail": "Whiscash ➜ Dragonite Otra Vez ; Danza Dragón +3 ; tanto Cascada  como Terremoto  permiten fortalecerse",
       "variant": []
     }
   ]
