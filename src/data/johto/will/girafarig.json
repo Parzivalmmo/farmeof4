@@ -2,23 +2,30 @@
   "id": "girafarig",
   "name": "Girafarig",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "🪨Trampa rocas🪨 ➜ cambiar a Gengar usar Otra Vez ; Maquinación ",
   "tricks": [
     {
-      "detail": "CLAYDOL CON TERREMOTO / PSÍQUICO → Excadrill lanza Trampa Rocas (entra Mantine), cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2",
-      "variant": [
-        {
-          "detail": "Opción 1: Si aparece Claydol mientras te boosteas cambia a Excadrill 4+2, si vuelve a cambiar a Mantine vuelve con Poliwrath 6+2 (Experimental, falta testear)",
-          "variant": []
-        },
-        {
-          "detail": "Opción 2: Si aparece Claydol mientras te boosteas cambia a Scrafty +3 (Experimental, falta testear)",
-          "variant": []
-        }
-      ]
+      "detail": "Typhlosion ➜ cambiar a Chandelure; usar Bola Sombra ",
+      "variant": []
     },
     {
-      "detail": "MAGNEZONE → Excadrill lo derrota, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2.",
+      "detail": "Mantine ➜ cambiar a Jirachi para proteger ; frente a Typhlosion, Chandelure +2 +2; el rival queda encerrado ",
+      "variant": []
+    },
+    {
+      "detail": "Claydol ➜ Otra Vez ; Gallade  +4 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Magnezone ➜ Gallade para debilitar ; Jirachi Protección ",
+      "variant": []
+    },
+    {
+      "detail": "Typhlosion ➜ Chandelure +2 +2 ",
+      "variant": []
+    },
+    {
+      "detail": "Se queda  ➜ Chandelure +2 +2 ; el rival queda encerrado ",
       "variant": []
     }
   ]
